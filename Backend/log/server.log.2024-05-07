@@ -1,0 +1,1192 @@
+2024-05-06 14:11:19,589 - main - log_requests - line:73 - INFO - rid=WXR6N8 start request path=/recent_papers
+2024-05-06 14:11:19,594 - main - log_requests - line:80 - INFO - rid=WXR6N8 completed_in=1.00ms status_code=200
+2024-05-06 14:11:19,610 - main - log_requests - line:73 - INFO - rid=6RX6MN start request path=/recent_papers
+2024-05-06 14:11:19,639 - main - log_requests - line:80 - INFO - rid=6RX6MN completed_in=28.00ms status_code=200
+2024-05-06 14:11:39,474 - main - log_requests - line:73 - INFO - rid=CANQI7 start request path=/upload
+2024-05-06 14:11:39,475 - main - log_requests - line:80 - INFO - rid=CANQI7 completed_in=1.00ms status_code=200
+2024-05-06 14:11:39,481 - main - log_requests - line:73 - INFO - rid=52F2SL start request path=/upload
+2024-05-06 14:11:39,768 - main - upload - line:174 - INFO - file=UploadFile(filename='ConResNet.pdf', size=13807174, headers=Headers({'content-disposition': 'form-data; name="file"; filename="ConResNet.pdf"', 'content-type': 'application/pdf'}))
+2024-05-06 14:11:39,806 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\06\f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 14:11:39,808 - main - log_requests - line:80 - INFO - rid=52F2SL completed_in=326.34ms status_code=200
+2024-05-06 14:11:40,252 - main - log_requests - line:73 - INFO - rid=5U1ZSA start request path=/download
+2024-05-06 14:11:40,253 - main - log_requests - line:80 - INFO - rid=5U1ZSA completed_in=1.00ms status_code=200
+2024-05-06 14:11:40,260 - main - log_requests - line:73 - INFO - rid=K6HJWK start request path=/download
+2024-05-06 14:11:40,263 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 14:11:40,265 - main - log_requests - line:80 - INFO - rid=K6HJWK completed_in=3.00ms status_code=200
+2024-05-06 14:11:40,659 - main - log_requests - line:73 - INFO - rid=2DQA48 start request path=/static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 14:11:40,771 - main - log_requests - line:80 - INFO - rid=2DQA48 completed_in=110.68ms status_code=200
+2024-05-06 14:11:40,856 - main - log_requests - line:73 - INFO - rid=C66HLY start request path=/analyze
+2024-05-06 14:11:40,857 - main - log_requests - line:80 - INFO - rid=C66HLY completed_in=0.97ms status_code=200
+2024-05-06 14:11:40,863 - main - log_requests - line:73 - INFO - rid=E13BF8 start request path=/analyze
+2024-05-06 14:11:40,865 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 14:11:40,871 - main - analyze - line:440 - INFO - file=None
+2024-05-06 14:11:40,871 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 14:12:13,149 - main - analyze_pdf - line:375 - INFO - title=Inter-slice Context Residual Learning for 3D (用于3D的切片上下文残留学习)
+2024-05-06 14:12:13,173 - main - log_requests - line:80 - INFO - rid=E13BF8 completed_in=32308.59ms status_code=200
+2024-05-06 16:25:08,215 - main - log_requests - line:73 - INFO - rid=WKSB6U start request path=/recent_papers
+2024-05-06 16:25:08,251 - main - log_requests - line:80 - INFO - rid=WKSB6U completed_in=23.27ms status_code=200
+2024-05-06 16:25:08,264 - main - log_requests - line:73 - INFO - rid=RBKWS0 start request path=/recent_papers
+2024-05-06 16:25:08,423 - main - log_requests - line:80 - INFO - rid=RBKWS0 completed_in=159.23ms status_code=200
+2024-05-06 16:25:11,020 - main - log_requests - line:73 - INFO - rid=OGOM1M start request path=/download
+2024-05-06 16:25:11,020 - main - log_requests - line:80 - INFO - rid=OGOM1M completed_in=0.00ms status_code=200
+2024-05-06 16:25:11,026 - main - log_requests - line:73 - INFO - rid=K1WBV3 start request path=/download
+2024-05-06 16:25:11,029 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:25:11,031 - main - log_requests - line:80 - INFO - rid=K1WBV3 completed_in=3.00ms status_code=200
+2024-05-06 16:25:11,365 - main - log_requests - line:73 - INFO - rid=EWUVC7 start request path=/static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:25:11,381 - main - log_requests - line:80 - INFO - rid=EWUVC7 completed_in=14.83ms status_code=304
+2024-05-06 16:25:11,448 - main - log_requests - line:73 - INFO - rid=ZFH6XZ start request path=/analyze
+2024-05-06 16:25:11,449 - main - log_requests - line:80 - INFO - rid=ZFH6XZ completed_in=1.03ms status_code=200
+2024-05-06 16:25:11,453 - main - log_requests - line:73 - INFO - rid=FQ2JMC start request path=/analyze
+2024-05-06 16:25:11,455 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:25:11,461 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A619EC1D0>
+2024-05-06 16:25:11,462 - main - log_requests - line:80 - INFO - rid=FQ2JMC completed_in=9.00ms status_code=200
+2024-05-06 16:25:23,572 - main - log_requests - line:73 - INFO - rid=GREMJ6 start request path=/analyze
+2024-05-06 16:25:23,573 - main - log_requests - line:80 - INFO - rid=GREMJ6 completed_in=0.00ms status_code=200
+2024-05-06 16:25:23,576 - main - log_requests - line:73 - INFO - rid=55KMA2 start request path=/analyze
+2024-05-06 16:25:23,577 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:25:23,579 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A6378C090>
+2024-05-06 16:25:23,579 - main - log_requests - line:80 - INFO - rid=55KMA2 completed_in=2.00ms status_code=200
+2024-05-06 16:25:41,796 - main - log_requests - line:73 - INFO - rid=G7N9WX start request path=/analyze
+2024-05-06 16:25:41,797 - main - log_requests - line:80 - INFO - rid=G7N9WX completed_in=1.00ms status_code=200
+2024-05-06 16:25:41,802 - main - log_requests - line:73 - INFO - rid=IRPKIE start request path=/analyze
+2024-05-06 16:25:41,804 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:25:41,810 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637A60D0>
+2024-05-06 16:25:41,811 - main - log_requests - line:80 - INFO - rid=IRPKIE completed_in=9.00ms status_code=200
+2024-05-06 16:25:51,772 - main - log_requests - line:73 - INFO - rid=7NMPMC start request path=/recent_papers
+2024-05-06 16:25:51,785 - main - log_requests - line:80 - INFO - rid=7NMPMC completed_in=13.00ms status_code=200
+2024-05-06 16:26:56,257 - main - log_requests - line:73 - INFO - rid=PEGHWW start request path=/upload
+2024-05-06 16:26:56,257 - main - log_requests - line:80 - INFO - rid=PEGHWW completed_in=0.00ms status_code=200
+2024-05-06 16:26:56,264 - main - log_requests - line:73 - INFO - rid=WQEAWU start request path=/upload
+2024-05-06 16:26:56,599 - main - upload - line:174 - INFO - file=UploadFile(filename='Inter-slice Context Residual Learning for 3D Medical Image Segmentation.pdf', size=13807174, headers=Headers({'content-disposition': 'form-data; name="file"; filename="Inter-slice Context Residual Learning for 3D Medical Image Segmentation.pdf"', 'content-type': 'application/pdf'}))
+2024-05-06 16:26:56,641 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\06\f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:26:56,641 - main - log_requests - line:80 - INFO - rid=WQEAWU completed_in=377.04ms status_code=200
+2024-05-06 16:26:57,104 - main - log_requests - line:73 - INFO - rid=7DSXPU start request path=/download
+2024-05-06 16:26:57,104 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:26:57,104 - main - log_requests - line:80 - INFO - rid=7DSXPU completed_in=0.00ms status_code=200
+2024-05-06 16:26:57,226 - main - log_requests - line:73 - INFO - rid=69JV0B start request path=/analyze
+2024-05-06 16:26:57,226 - main - log_requests - line:80 - INFO - rid=69JV0B completed_in=0.00ms status_code=200
+2024-05-06 16:26:57,226 - main - log_requests - line:73 - INFO - rid=EVIZQO start request path=/analyze
+2024-05-06 16:26:57,226 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:26:57,226 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637AF690>
+2024-05-06 16:26:57,226 - main - log_requests - line:80 - INFO - rid=EVIZQO completed_in=0.00ms status_code=200
+2024-05-06 16:27:10,194 - main - log_requests - line:73 - INFO - rid=LRDGMR start request path=/analyze
+2024-05-06 16:27:10,195 - main - log_requests - line:80 - INFO - rid=LRDGMR completed_in=0.00ms status_code=200
+2024-05-06 16:27:10,203 - main - log_requests - line:73 - INFO - rid=NZ58UU start request path=/analyze
+2024-05-06 16:27:10,203 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 16:27:10,203 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637ACC90>
+2024-05-06 16:27:10,203 - main - log_requests - line:80 - INFO - rid=NZ58UU completed_in=0.00ms status_code=200
+2024-05-06 17:16:20,550 - main - log_requests - line:73 - INFO - rid=PH5QGT start request path=/recent_papers
+2024-05-06 17:16:20,558 - main - log_requests - line:80 - INFO - rid=PH5QGT completed_in=4.36ms status_code=200
+2024-05-06 17:16:20,571 - main - log_requests - line:73 - INFO - rid=8WJV90 start request path=/recent_papers
+2024-05-06 17:16:20,629 - main - log_requests - line:80 - INFO - rid=8WJV90 completed_in=58.00ms status_code=200
+2024-05-06 17:17:44,670 - main - log_requests - line:73 - INFO - rid=2PJRB9 start request path=/download
+2024-05-06 17:17:44,672 - main - log_requests - line:80 - INFO - rid=2PJRB9 completed_in=1.41ms status_code=200
+2024-05-06 17:17:44,676 - main - log_requests - line:73 - INFO - rid=1BB0X6 start request path=/download
+2024-05-06 17:17:44,678 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 17:17:44,678 - main - log_requests - line:80 - INFO - rid=1BB0X6 completed_in=1.00ms status_code=200
+2024-05-06 17:17:45,011 - main - log_requests - line:73 - INFO - rid=DGZKLN start request path=/static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 17:17:45,020 - main - log_requests - line:80 - INFO - rid=DGZKLN completed_in=8.21ms status_code=200
+2024-05-06 17:17:45,099 - main - log_requests - line:73 - INFO - rid=SHBO45 start request path=/analyze
+2024-05-06 17:17:45,099 - main - log_requests - line:80 - INFO - rid=SHBO45 completed_in=0.00ms status_code=200
+2024-05-06 17:17:45,104 - main - log_requests - line:73 - INFO - rid=YHXMXO start request path=/analyze
+2024-05-06 17:17:45,106 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 17:17:45,111 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A63791150>
+2024-05-06 17:17:45,112 - main - log_requests - line:80 - INFO - rid=YHXMXO completed_in=8.01ms status_code=200
+2024-05-06 17:17:47,340 - main - log_requests - line:73 - INFO - rid=WQU1Y4 start request path=/recent_papers
+2024-05-06 17:17:47,348 - main - log_requests - line:80 - INFO - rid=WQU1Y4 completed_in=7.00ms status_code=200
+2024-05-06 17:17:48,876 - main - log_requests - line:73 - INFO - rid=JU4JLA start request path=/download
+2024-05-06 17:17:48,876 - main - log_requests - line:80 - INFO - rid=JU4JLA completed_in=0.00ms status_code=200
+2024-05-06 17:17:48,882 - main - log_requests - line:73 - INFO - rid=D2XKXO start request path=/download
+2024-05-06 17:17:48,883 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-06 17:17:48,884 - main - log_requests - line:80 - INFO - rid=D2XKXO completed_in=2.00ms status_code=200
+2024-05-06 17:17:48,906 - main - log_requests - line:73 - INFO - rid=CUCES4 start request path=/static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-06 17:17:48,908 - main - log_requests - line:80 - INFO - rid=CUCES4 completed_in=1.00ms status_code=304
+2024-05-06 17:17:48,974 - main - log_requests - line:73 - INFO - rid=EN9MMG start request path=/analyze
+2024-05-06 17:17:48,975 - main - log_requests - line:80 - INFO - rid=EN9MMG completed_in=0.00ms status_code=200
+2024-05-06 17:17:48,978 - main - log_requests - line:73 - INFO - rid=VPXVIJ start request path=/analyze
+2024-05-06 17:17:48,979 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-06 17:17:48,981 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A6378C550>
+2024-05-06 17:17:48,982 - main - log_requests - line:80 - INFO - rid=VPXVIJ completed_in=3.00ms status_code=200
+2024-05-06 17:18:22,429 - main - log_requests - line:73 - INFO - rid=1Z2DCR start request path=/recent_papers
+2024-05-06 17:18:22,435 - main - log_requests - line:80 - INFO - rid=1Z2DCR completed_in=6.00ms status_code=200
+2024-05-06 17:18:24,635 - main - log_requests - line:73 - INFO - rid=1ZA5AK start request path=/download
+2024-05-06 17:18:24,636 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-06 17:18:24,637 - main - log_requests - line:80 - INFO - rid=1ZA5AK completed_in=2.00ms status_code=200
+2024-05-06 17:18:24,737 - main - log_requests - line:73 - INFO - rid=I57GNC start request path=/analyze
+2024-05-06 17:18:24,737 - main - log_requests - line:80 - INFO - rid=I57GNC completed_in=0.00ms status_code=200
+2024-05-06 17:18:24,742 - main - log_requests - line:73 - INFO - rid=QJJ5AP start request path=/analyze
+2024-05-06 17:18:24,743 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-06 17:18:24,745 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637A5E90>
+2024-05-06 17:18:24,746 - main - log_requests - line:80 - INFO - rid=QJJ5AP completed_in=4.00ms status_code=200
+2024-05-06 17:38:56,214 - main - log_requests - line:73 - INFO - rid=8L1TL2 start request path=/recent_papers
+2024-05-06 17:38:56,225 - main - log_requests - line:80 - INFO - rid=8L1TL2 completed_in=3.00ms status_code=200
+2024-05-06 17:38:56,232 - main - log_requests - line:73 - INFO - rid=FTC5IT start request path=/recent_papers
+2024-05-06 17:38:56,284 - main - log_requests - line:80 - INFO - rid=FTC5IT completed_in=52.49ms status_code=200
+2024-05-06 17:39:33,892 - main - log_requests - line:73 - INFO - rid=V0VEEC start request path=/recent_papers
+2024-05-06 17:39:33,915 - main - log_requests - line:80 - INFO - rid=V0VEEC completed_in=22.00ms status_code=200
+2024-05-06 17:39:51,497 - main - log_requests - line:73 - INFO - rid=ZY17W7 start request path=/download
+2024-05-06 17:39:51,498 - main - log_requests - line:80 - INFO - rid=ZY17W7 completed_in=0.00ms status_code=200
+2024-05-06 17:39:51,505 - main - log_requests - line:73 - INFO - rid=5MEQU5 start request path=/download
+2024-05-06 17:39:51,508 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 17:39:51,514 - main - log_requests - line:80 - INFO - rid=5MEQU5 completed_in=9.00ms status_code=200
+2024-05-06 17:39:51,875 - main - log_requests - line:73 - INFO - rid=ZRF11H start request path=/static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 17:39:51,894 - main - log_requests - line:80 - INFO - rid=ZRF11H completed_in=19.38ms status_code=304
+2024-05-06 17:39:52,037 - main - log_requests - line:73 - INFO - rid=K0J0V6 start request path=/analyze
+2024-05-06 17:39:52,038 - main - log_requests - line:80 - INFO - rid=K0J0V6 completed_in=0.79ms status_code=200
+2024-05-06 17:39:52,048 - main - log_requests - line:73 - INFO - rid=WQIH7Q start request path=/analyze
+2024-05-06 17:39:52,051 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-06 17:39:52,058 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637854D0>
+2024-05-06 17:39:52,064 - main - log_requests - line:80 - INFO - rid=WQIH7Q completed_in=14.99ms status_code=200
+2024-05-06 17:39:54,029 - main - log_requests - line:73 - INFO - rid=LBPC2E start request path=/recent_papers
+2024-05-06 17:39:54,066 - main - log_requests - line:80 - INFO - rid=LBPC2E completed_in=36.00ms status_code=200
+2024-05-06 17:39:55,881 - main - log_requests - line:73 - INFO - rid=B4DQS1 start request path=/download
+2024-05-06 17:39:55,881 - main - log_requests - line:80 - INFO - rid=B4DQS1 completed_in=0.00ms status_code=200
+2024-05-06 17:39:55,887 - main - log_requests - line:73 - INFO - rid=99HWC7 start request path=/download
+2024-05-06 17:39:55,888 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-06 17:39:55,889 - main - log_requests - line:80 - INFO - rid=99HWC7 completed_in=2.00ms status_code=200
+2024-05-06 17:39:55,968 - main - log_requests - line:73 - INFO - rid=R999PO start request path=/static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-06 17:39:55,972 - main - log_requests - line:80 - INFO - rid=R999PO completed_in=4.00ms status_code=200
+2024-05-06 17:39:56,082 - main - log_requests - line:73 - INFO - rid=EKH8RG start request path=/analyze
+2024-05-06 17:39:56,082 - main - log_requests - line:80 - INFO - rid=EKH8RG completed_in=0.00ms status_code=200
+2024-05-06 17:39:56,093 - main - log_requests - line:73 - INFO - rid=P9XUWY start request path=/analyze
+2024-05-06 17:39:56,095 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-06 17:39:56,098 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A61A2BC50>
+2024-05-06 17:39:56,099 - main - log_requests - line:80 - INFO - rid=P9XUWY completed_in=5.00ms status_code=200
+2024-05-06 17:42:02,730 - main - log_requests - line:73 - INFO - rid=86FPGU start request path=/recent_papers
+2024-05-06 17:42:02,738 - main - log_requests - line:80 - INFO - rid=86FPGU completed_in=7.70ms status_code=200
+2024-05-06 17:42:06,065 - main - log_requests - line:73 - INFO - rid=D2KUFN start request path=/download
+2024-05-06 17:42:06,066 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-06 17:42:06,067 - main - log_requests - line:80 - INFO - rid=D2KUFN completed_in=1.00ms status_code=200
+2024-05-06 17:42:06,160 - main - log_requests - line:73 - INFO - rid=JV9VWI start request path=/analyze
+2024-05-06 17:42:06,160 - main - log_requests - line:80 - INFO - rid=JV9VWI completed_in=0.00ms status_code=200
+2024-05-06 17:42:06,170 - main - log_requests - line:73 - INFO - rid=HQYFXF start request path=/analyze
+2024-05-06 17:42:06,170 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-06 17:42:06,171 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637AF810>
+2024-05-06 17:42:06,172 - main - log_requests - line:80 - INFO - rid=HQYFXF completed_in=2.00ms status_code=200
+2024-05-06 18:02:35,832 - main - log_requests - line:73 - INFO - rid=ISC288 start request path=/recent_papers
+2024-05-06 18:02:35,840 - main - log_requests - line:80 - INFO - rid=ISC288 completed_in=4.00ms status_code=200
+2024-05-06 18:02:35,846 - main - log_requests - line:73 - INFO - rid=BS0HCM start request path=/recent_papers
+2024-05-06 18:02:35,883 - main - log_requests - line:80 - INFO - rid=BS0HCM completed_in=35.80ms status_code=200
+2024-05-06 18:02:45,469 - main - log_requests - line:73 - INFO - rid=5Z61VV start request path=/upload
+2024-05-06 18:02:45,470 - main - log_requests - line:80 - INFO - rid=5Z61VV completed_in=0.00ms status_code=200
+2024-05-06 18:02:45,475 - main - log_requests - line:73 - INFO - rid=2WILGM start request path=/upload
+2024-05-06 18:02:45,614 - main - upload - line:174 - INFO - file=UploadFile(filename='PID.pdf', size=4378856, headers=Headers({'content-disposition': 'form-data; name="file"; filename="PID.pdf"', 'content-type': 'application/pdf'}))
+2024-05-06 18:02:45,631 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\06\63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-06 18:02:45,632 - main - log_requests - line:80 - INFO - rid=2WILGM completed_in=157.69ms status_code=200
+2024-05-06 18:02:45,718 - main - log_requests - line:73 - INFO - rid=9R5BOQ start request path=/download
+2024-05-06 18:02:45,719 - main - log_requests - line:80 - INFO - rid=9R5BOQ completed_in=0.00ms status_code=200
+2024-05-06 18:02:45,724 - main - log_requests - line:73 - INFO - rid=IYUO8Y start request path=/download
+2024-05-06 18:02:45,725 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-06 18:02:45,726 - main - log_requests - line:80 - INFO - rid=IYUO8Y completed_in=2.00ms status_code=200
+2024-05-06 18:02:46,061 - main - log_requests - line:73 - INFO - rid=XLMZ1C start request path=/static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-06 18:02:46,066 - main - log_requests - line:80 - INFO - rid=XLMZ1C completed_in=5.00ms status_code=200
+2024-05-06 18:02:46,191 - main - log_requests - line:73 - INFO - rid=MWI54G start request path=/analyze
+2024-05-06 18:02:46,192 - main - log_requests - line:80 - INFO - rid=MWI54G completed_in=1.00ms status_code=200
+2024-05-06 18:02:46,202 - main - log_requests - line:73 - INFO - rid=NP2SVJ start request path=/analyze
+2024-05-06 18:02:46,203 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-06 18:02:46,208 - main - analyze - line:440 - INFO - file=None
+2024-05-06 18:02:46,209 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-06 18:03:09,277 - main - analyze_pdf - line:375 - INFO - title=PIDNet: A Real-time Semantic Segmentation Network Inspired by PID (PIDNet:一种受PID启发的实时语义分割网络)
+2024-05-06 18:03:09,338 - main - log_requests - line:80 - INFO - rid=NP2SVJ completed_in=23136.46ms status_code=200
+2024-05-06 18:03:17,677 - main - log_requests - line:73 - INFO - rid=T60FQ1 start request path=/recent_papers
+2024-05-06 18:03:17,691 - main - log_requests - line:80 - INFO - rid=T60FQ1 completed_in=13.00ms status_code=200
+2024-05-06 18:03:36,204 - main - log_requests - line:73 - INFO - rid=91OJQQ start request path=/upload
+2024-05-06 18:03:36,323 - main - upload - line:174 - INFO - file=UploadFile(filename='DiffuMask Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models.pdf', size=6398111, headers=Headers({'content-disposition': 'form-data; name="file"; filename="DiffuMask Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models.pdf"', 'content-type': 'application/pdf'}))
+2024-05-06 18:03:36,341 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\06\82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 18:03:36,343 - main - log_requests - line:80 - INFO - rid=91OJQQ completed_in=139.66ms status_code=200
+2024-05-06 18:03:36,384 - main - log_requests - line:73 - INFO - rid=LSVO9E start request path=/download
+2024-05-06 18:03:36,385 - main - log_requests - line:80 - INFO - rid=LSVO9E completed_in=0.00ms status_code=200
+2024-05-06 18:03:36,390 - main - log_requests - line:73 - INFO - rid=6PT404 start request path=/download
+2024-05-06 18:03:36,391 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 18:03:36,392 - main - log_requests - line:80 - INFO - rid=6PT404 completed_in=2.00ms status_code=200
+2024-05-06 18:03:36,730 - main - log_requests - line:73 - INFO - rid=CH2Y52 start request path=/static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 18:03:36,732 - main - log_requests - line:80 - INFO - rid=CH2Y52 completed_in=2.00ms status_code=200
+2024-05-06 18:03:36,833 - main - log_requests - line:73 - INFO - rid=NCUS1R start request path=/analyze
+2024-05-06 18:03:36,834 - main - log_requests - line:80 - INFO - rid=NCUS1R completed_in=0.00ms status_code=200
+2024-05-06 18:03:36,851 - main - log_requests - line:73 - INFO - rid=UJOHTA start request path=/analyze
+2024-05-06 18:03:36,853 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 18:03:36,855 - main - analyze - line:440 - INFO - file=None
+2024-05-06 18:03:36,855 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 18:03:56,194 - main - analyze_pdf - line:375 - INFO - title=DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models (DiffuMask: 使用扩散模型合成具有像素级标注的图像，用于语义分割)
+2024-05-06 18:03:56,206 - main - log_requests - line:80 - INFO - rid=UJOHTA completed_in=19354.72ms status_code=200
+2024-05-06 19:36:31,233 - main - log_requests - line:73 - INFO - rid=O7O7IN start request path=/download
+2024-05-06 19:36:31,243 - main - log_requests - line:80 - INFO - rid=O7O7IN completed_in=5.90ms status_code=200
+2024-05-06 19:36:31,253 - main - log_requests - line:73 - INFO - rid=67OND9 start request path=/download
+2024-05-06 19:36:31,269 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 19:36:31,274 - main - log_requests - line:80 - INFO - rid=67OND9 completed_in=20.69ms status_code=200
+2024-05-06 19:36:31,599 - main - log_requests - line:73 - INFO - rid=53JM0H start request path=/static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 19:36:31,602 - main - log_requests - line:80 - INFO - rid=53JM0H completed_in=3.00ms status_code=304
+2024-05-06 19:36:31,680 - main - log_requests - line:73 - INFO - rid=6FPASM start request path=/analyze
+2024-05-06 19:36:31,681 - main - log_requests - line:80 - INFO - rid=6FPASM completed_in=1.01ms status_code=200
+2024-05-06 19:36:31,687 - main - log_requests - line:73 - INFO - rid=7E242B start request path=/analyze
+2024-05-06 19:36:31,688 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 19:36:31,719 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637A7150>
+2024-05-06 19:36:31,722 - main - log_requests - line:80 - INFO - rid=7E242B completed_in=35.00ms status_code=200
+2024-05-06 19:36:37,804 - main - log_requests - line:73 - INFO - rid=C4W7ND start request path=/recent_papers
+2024-05-06 19:36:37,805 - main - log_requests - line:80 - INFO - rid=C4W7ND completed_in=0.00ms status_code=200
+2024-05-06 19:36:37,811 - main - log_requests - line:73 - INFO - rid=7AOVFL start request path=/recent_papers
+2024-05-06 19:36:37,846 - main - log_requests - line:80 - INFO - rid=7AOVFL completed_in=35.00ms status_code=200
+2024-05-06 19:47:38,946 - main - log_requests - line:73 - INFO - rid=CT3M3Z start request path=/download
+2024-05-06 19:47:38,946 - main - log_requests - line:80 - INFO - rid=CT3M3Z completed_in=0.00ms status_code=200
+2024-05-06 19:47:38,953 - main - log_requests - line:73 - INFO - rid=2XRKR4 start request path=/download
+2024-05-06 19:47:38,955 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 19:47:38,957 - main - log_requests - line:80 - INFO - rid=2XRKR4 completed_in=3.00ms status_code=200
+2024-05-06 19:47:39,295 - main - log_requests - line:73 - INFO - rid=J633S9 start request path=/static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 19:47:39,298 - main - log_requests - line:80 - INFO - rid=J633S9 completed_in=2.00ms status_code=304
+2024-05-06 19:47:39,368 - main - log_requests - line:73 - INFO - rid=LCO25E start request path=/analyze
+2024-05-06 19:47:39,368 - main - log_requests - line:80 - INFO - rid=LCO25E completed_in=0.00ms status_code=200
+2024-05-06 19:47:39,373 - main - log_requests - line:73 - INFO - rid=SX71TM start request path=/analyze
+2024-05-06 19:47:39,375 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 19:47:39,385 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A637BE350>
+2024-05-06 19:47:39,387 - main - log_requests - line:80 - INFO - rid=SX71TM completed_in=12.99ms status_code=200
+2024-05-06 21:39:58,939 - main - log_requests - line:73 - INFO - rid=I50RQI start request path=/download
+2024-05-06 21:39:58,957 - main - log_requests - line:80 - INFO - rid=I50RQI completed_in=10.99ms status_code=200
+2024-05-06 21:39:58,977 - main - log_requests - line:73 - INFO - rid=YBYCZT start request path=/download
+2024-05-06 21:39:58,996 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 21:39:59,000 - main - log_requests - line:80 - INFO - rid=YBYCZT completed_in=22.00ms status_code=200
+2024-05-06 21:39:59,327 - main - log_requests - line:73 - INFO - rid=9GWHHR start request path=/static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 21:39:59,333 - main - log_requests - line:80 - INFO - rid=9GWHHR completed_in=5.00ms status_code=304
+2024-05-06 21:39:59,447 - main - log_requests - line:73 - INFO - rid=ZJXUWF start request path=/analyze
+2024-05-06 21:39:59,448 - main - log_requests - line:80 - INFO - rid=ZJXUWF completed_in=1.00ms status_code=200
+2024-05-06 21:39:59,456 - main - log_requests - line:73 - INFO - rid=XYNQK3 start request path=/analyze
+2024-05-06 21:39:59,459 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-06 21:39:59,503 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A62EC37D0>
+2024-05-06 21:39:59,505 - main - log_requests - line:80 - INFO - rid=XYNQK3 completed_in=48.00ms status_code=200
+2024-05-07 10:23:38,233 - main - log_requests - line:73 - INFO - rid=9OSHWF start request path=/recent_papers
+2024-05-07 10:23:38,233 - main - log_requests - line:80 - INFO - rid=9OSHWF completed_in=0.00ms status_code=200
+2024-05-07 10:23:38,249 - main - log_requests - line:73 - INFO - rid=G30XKE start request path=/recent_papers
+2024-05-07 10:23:38,275 - main - log_requests - line:80 - INFO - rid=G30XKE completed_in=26.35ms status_code=200
+2024-05-07 10:24:10,215 - main - log_requests - line:73 - INFO - rid=W0GXWA start request path=/upload
+2024-05-07 10:24:10,215 - main - log_requests - line:80 - INFO - rid=W0GXWA completed_in=0.00ms status_code=200
+2024-05-07 10:24:10,215 - main - log_requests - line:73 - INFO - rid=O0NQ0N start request path=/upload
+2024-05-07 10:24:10,298 - main - upload - line:174 - INFO - file=UploadFile(filename='WSCOD.pdf', size=4992227, headers=Headers({'content-disposition': 'form-data; name="file"; filename="WSCOD.pdf"', 'content-type': 'application/pdf'}))
+2024-05-07 10:24:10,314 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\07\e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:24:10,314 - main - log_requests - line:80 - INFO - rid=O0NQ0N completed_in=98.87ms status_code=200
+2024-05-07 10:24:10,879 - main - log_requests - line:73 - INFO - rid=H0M3DO start request path=/download
+2024-05-07 10:24:10,879 - main - log_requests - line:80 - INFO - rid=H0M3DO completed_in=0.00ms status_code=200
+2024-05-07 10:24:10,895 - main - log_requests - line:73 - INFO - rid=LZCF8A start request path=/download
+2024-05-07 10:24:10,895 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:24:10,895 - main - log_requests - line:80 - INFO - rid=LZCF8A completed_in=0.00ms status_code=200
+2024-05-07 10:24:11,220 - main - log_requests - line:73 - INFO - rid=5DQICX start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:24:11,330 - main - log_requests - line:80 - INFO - rid=5DQICX completed_in=109.87ms status_code=200
+2024-05-07 10:24:11,472 - main - log_requests - line:73 - INFO - rid=J9S3ZM start request path=/analyze
+2024-05-07 10:24:11,473 - main - log_requests - line:80 - INFO - rid=J9S3ZM completed_in=1.00ms status_code=200
+2024-05-07 10:24:11,479 - main - log_requests - line:73 - INFO - rid=WK7C4A start request path=/analyze
+2024-05-07 10:24:11,480 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:24:11,481 - main - analyze - line:440 - INFO - file=None
+2024-05-07 10:24:11,481 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:25:16,388 - main - analyze - line:447 - ERROR - Exception: list index out of range
+2024-05-07 10:25:16,390 - main - log_requests - line:80 - INFO - rid=WK7C4A completed_in=64910.79ms status_code=400
+2024-05-07 10:26:04,114 - main - log_requests - line:73 - INFO - rid=YSUEY9 start request path=/download
+2024-05-07 10:26:04,114 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:26:04,114 - main - log_requests - line:80 - INFO - rid=YSUEY9 completed_in=0.00ms status_code=200
+2024-05-07 10:26:04,457 - main - log_requests - line:73 - INFO - rid=QYQNJ9 start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:26:04,457 - main - log_requests - line:80 - INFO - rid=QYQNJ9 completed_in=0.00ms status_code=304
+2024-05-07 10:26:04,605 - main - log_requests - line:73 - INFO - rid=FGWTPE start request path=/analyze
+2024-05-07 10:26:04,606 - main - log_requests - line:80 - INFO - rid=FGWTPE completed_in=0.00ms status_code=200
+2024-05-07 10:26:04,618 - main - log_requests - line:73 - INFO - rid=S4QWL2 start request path=/analyze
+2024-05-07 10:26:04,619 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:26:04,621 - main - analyze - line:440 - INFO - file=None
+2024-05-07 10:26:04,621 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:26:06,379 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102606847070659jk8t7NOE)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:10,539 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102611221319471zbnIWccq)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:14,696 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102615379397673enrxhfqG)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:18,855 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102619539002205P1uh16k9)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:27,013 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 2024050710262769764352580OsIEhf)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:27,239 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 202405071026279230949222lFfOVOv)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:31,458 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102632141607725FYS3hkvT)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:35,691 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102636374497953tBQFoVVY)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:39,920 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102640605231153OpLb1Zrf)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:48,209 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102648893384143Ll9CaGLi)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:48,360 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 2024050710264945277786kncpxZw6)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:52,509 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102653193957489hyWu0jfD)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:26:56,658 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102657342440436xb3fjsMh)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:27:00,811 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102701490752866L3K9zxnB)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:27:09,170 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507102709643631006GMsLbRWf)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 10:27:09,170 - main - analyze - line:447 - ERROR - Exception: list index out of range
+2024-05-07 10:27:09,170 - main - log_requests - line:80 - INFO - rid=S4QWL2 completed_in=64551.78ms status_code=400
+2024-05-07 10:30:08,067 - main - log_requests - line:73 - INFO - rid=XOWGKA start request path=/download
+2024-05-07 10:30:08,160 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:08,183 - main - log_requests - line:80 - INFO - rid=XOWGKA completed_in=104.12ms status_code=200
+2024-05-07 10:30:08,529 - main - log_requests - line:73 - INFO - rid=3BQ91D start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:08,576 - main - log_requests - line:80 - INFO - rid=3BQ91D completed_in=46.88ms status_code=304
+2024-05-07 10:30:08,781 - main - log_requests - line:73 - INFO - rid=WM18KA start request path=/analyze
+2024-05-07 10:30:08,784 - main - log_requests - line:80 - INFO - rid=WM18KA completed_in=2.00ms status_code=200
+2024-05-07 10:30:08,796 - main - log_requests - line:73 - INFO - rid=CCMRX9 start request path=/analyze
+2024-05-07 10:30:08,809 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:08,961 - main - analyze - line:440 - INFO - file=None
+2024-05-07 10:30:08,962 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:31,776 - main - analyze_pdf - line:375 - INFO - title=Weakly-Supervised Camouflaged Object Detection with Scribble Annotations (带草稿注释的弱监督伪装目标检测)
+2024-05-07 10:30:31,878 - main - log_requests - line:80 - INFO - rid=CCMRX9 completed_in=23080.04ms status_code=200
+2024-05-07 10:30:45,085 - main - log_requests - line:73 - INFO - rid=B9CF10 start request path=/download
+2024-05-07 10:30:45,087 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:45,088 - main - log_requests - line:80 - INFO - rid=B9CF10 completed_in=3.23ms status_code=200
+2024-05-07 10:30:45,423 - main - log_requests - line:73 - INFO - rid=005H28 start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:45,423 - main - log_requests - line:80 - INFO - rid=005H28 completed_in=0.00ms status_code=304
+2024-05-07 10:30:45,496 - main - log_requests - line:73 - INFO - rid=39LOPP start request path=/analyze
+2024-05-07 10:30:45,496 - main - log_requests - line:80 - INFO - rid=39LOPP completed_in=0.00ms status_code=200
+2024-05-07 10:30:45,496 - main - log_requests - line:73 - INFO - rid=8ZM8VR start request path=/analyze
+2024-05-07 10:30:45,496 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 10:30:45,496 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233C87638D0>
+2024-05-07 10:30:45,496 - main - log_requests - line:80 - INFO - rid=8ZM8VR completed_in=0.00ms status_code=200
+2024-05-07 10:31:11,981 - main - log_requests - line:73 - INFO - rid=BDB7A2 start request path=/chat
+2024-05-07 10:31:11,981 - main - log_requests - line:80 - INFO - rid=BDB7A2 completed_in=0.00ms status_code=200
+2024-05-07 10:31:11,981 - main - log_requests - line:73 - INFO - rid=CEBR51 start request path=/chat
+2024-05-07 10:31:11,991 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 10:31:11,991 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000233CA4AA8D0>
+2024-05-07 10:31:18,089 - main - log_requests - line:80 - INFO - rid=CEBR51 completed_in=6108.43ms status_code=200
+2024-05-07 10:45:16,686 - main - log_requests - line:73 - INFO - rid=HYFDI8 start request path=/recent_papers
+2024-05-07 10:45:16,686 - main - log_requests - line:80 - INFO - rid=HYFDI8 completed_in=0.00ms status_code=200
+2024-05-07 10:45:16,694 - main - log_requests - line:73 - INFO - rid=78P28B start request path=/recent_papers
+2024-05-07 10:45:16,734 - main - log_requests - line:80 - INFO - rid=78P28B completed_in=40.65ms status_code=200
+2024-05-07 10:55:02,068 - main - log_requests - line:73 - INFO - rid=OAASZ4 start request path=/download
+2024-05-07 10:55:02,068 - main - log_requests - line:80 - INFO - rid=OAASZ4 completed_in=0.00ms status_code=200
+2024-05-07 10:55:02,068 - main - log_requests - line:73 - INFO - rid=99PODZ start request path=/download
+2024-05-07 10:55:02,068 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 10:55:02,068 - main - log_requests - line:80 - INFO - rid=99PODZ completed_in=0.00ms status_code=200
+2024-05-07 10:55:02,428 - main - log_requests - line:73 - INFO - rid=1GFHY6 start request path=/static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 10:55:02,428 - main - log_requests - line:80 - INFO - rid=1GFHY6 completed_in=0.00ms status_code=304
+2024-05-07 10:55:02,529 - main - log_requests - line:73 - INFO - rid=JIJ6P8 start request path=/analyze
+2024-05-07 10:55:02,530 - main - log_requests - line:80 - INFO - rid=JIJ6P8 completed_in=1.00ms status_code=200
+2024-05-07 10:55:02,533 - main - log_requests - line:73 - INFO - rid=OX9BB9 start request path=/analyze
+2024-05-07 10:55:02,533 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 10:55:02,541 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CA477090>
+2024-05-07 10:55:02,542 - main - log_requests - line:80 - INFO - rid=OX9BB9 completed_in=8.63ms status_code=200
+2024-05-07 10:55:03,620 - main - log_requests - line:73 - INFO - rid=DFTKCN start request path=/recent_papers
+2024-05-07 10:55:03,631 - main - log_requests - line:80 - INFO - rid=DFTKCN completed_in=10.77ms status_code=200
+2024-05-07 10:55:05,451 - main - log_requests - line:73 - INFO - rid=PJCW1T start request path=/download
+2024-05-07 10:55:05,451 - main - log_requests - line:80 - INFO - rid=PJCW1T completed_in=0.00ms status_code=200
+2024-05-07 10:55:05,457 - main - log_requests - line:73 - INFO - rid=VQK1A3 start request path=/download
+2024-05-07 10:55:05,457 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 10:55:05,457 - main - log_requests - line:80 - INFO - rid=VQK1A3 completed_in=0.00ms status_code=200
+2024-05-07 10:55:05,790 - main - log_requests - line:73 - INFO - rid=GLLJDA start request path=/static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 10:55:05,790 - main - log_requests - line:80 - INFO - rid=GLLJDA completed_in=0.00ms status_code=304
+2024-05-07 10:55:05,857 - main - log_requests - line:73 - INFO - rid=TPSWON start request path=/analyze
+2024-05-07 10:55:05,857 - main - log_requests - line:80 - INFO - rid=TPSWON completed_in=0.00ms status_code=200
+2024-05-07 10:55:05,861 - main - log_requests - line:73 - INFO - rid=0PWAT5 start request path=/analyze
+2024-05-07 10:55:05,862 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 10:55:05,864 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CA49E4D0>
+2024-05-07 10:55:05,866 - main - log_requests - line:80 - INFO - rid=0PWAT5 completed_in=4.00ms status_code=200
+2024-05-07 11:15:50,853 - main - log_requests - line:73 - INFO - rid=K2OPG3 start request path=/download
+2024-05-07 11:15:50,869 - main - log_requests - line:80 - INFO - rid=K2OPG3 completed_in=7.26ms status_code=200
+2024-05-07 11:15:50,878 - main - log_requests - line:73 - INFO - rid=6X90JM start request path=/download
+2024-05-07 11:15:50,915 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:15:50,922 - main - log_requests - line:80 - INFO - rid=6X90JM completed_in=44.58ms status_code=200
+2024-05-07 11:15:51,284 - main - log_requests - line:73 - INFO - rid=JJWYWD start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:15:51,298 - main - log_requests - line:80 - INFO - rid=JJWYWD completed_in=14.31ms status_code=304
+2024-05-07 11:15:51,382 - main - log_requests - line:73 - INFO - rid=84OO5F start request path=/analyze
+2024-05-07 11:15:51,382 - main - log_requests - line:80 - INFO - rid=84OO5F completed_in=0.00ms status_code=200
+2024-05-07 11:15:51,390 - main - log_requests - line:73 - INFO - rid=GL22I7 start request path=/analyze
+2024-05-07 11:15:51,392 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:15:51,443 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233C86EDC90>
+2024-05-07 11:15:51,446 - main - log_requests - line:80 - INFO - rid=GL22I7 completed_in=56.00ms status_code=200
+2024-05-07 11:16:08,356 - main - log_requests - line:73 - INFO - rid=94ZEQS start request path=/chat
+2024-05-07 11:16:08,357 - main - log_requests - line:80 - INFO - rid=94ZEQS completed_in=0.00ms status_code=200
+2024-05-07 11:16:08,362 - main - log_requests - line:73 - INFO - rid=FDMHJZ start request path=/chat
+2024-05-07 11:16:08,373 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 11:16:08,374 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000233C8790D90>
+2024-05-07 11:16:14,389 - main - log_requests - line:80 - INFO - rid=FDMHJZ completed_in=6026.42ms status_code=200
+2024-05-07 11:21:38,592 - main - log_requests - line:73 - INFO - rid=IJ7ZOO start request path=/download
+2024-05-07 11:21:38,624 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:21:38,630 - main - log_requests - line:80 - INFO - rid=IJ7ZOO completed_in=33.99ms status_code=200
+2024-05-07 11:21:38,987 - main - log_requests - line:73 - INFO - rid=HS6WVB start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:21:38,995 - main - log_requests - line:80 - INFO - rid=HS6WVB completed_in=8.00ms status_code=304
+2024-05-07 11:21:39,093 - main - log_requests - line:73 - INFO - rid=4WPS12 start request path=/analyze
+2024-05-07 11:21:39,095 - main - log_requests - line:80 - INFO - rid=4WPS12 completed_in=1.00ms status_code=200
+2024-05-07 11:21:39,108 - main - log_requests - line:73 - INFO - rid=4D803E start request path=/analyze
+2024-05-07 11:21:39,111 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:21:39,166 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CA4AB350>
+2024-05-07 11:21:39,170 - main - log_requests - line:80 - INFO - rid=4D803E completed_in=61.01ms status_code=200
+2024-05-07 11:23:57,555 - main - log_requests - line:73 - INFO - rid=02M5QM start request path=/download
+2024-05-07 11:23:57,557 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:23:57,558 - main - log_requests - line:80 - INFO - rid=02M5QM completed_in=3.45ms status_code=200
+2024-05-07 11:23:57,645 - main - log_requests - line:73 - INFO - rid=9ESAXE start request path=/analyze
+2024-05-07 11:23:57,646 - main - log_requests - line:80 - INFO - rid=9ESAXE completed_in=0.00ms status_code=200
+2024-05-07 11:23:57,656 - main - log_requests - line:73 - INFO - rid=DQ6HM1 start request path=/analyze
+2024-05-07 11:23:57,657 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:23:57,660 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CA481ED0>
+2024-05-07 11:23:57,662 - main - log_requests - line:80 - INFO - rid=DQ6HM1 completed_in=6.01ms status_code=200
+2024-05-07 11:24:30,913 - main - log_requests - line:73 - INFO - rid=P2VCWF start request path=/chat
+2024-05-07 11:24:30,927 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 11:24:30,931 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000233C86B03D0>
+2024-05-07 11:24:32,208 - util - log_info - line:67 - INFO - error_code=None error_message='该令牌不支持指定的模型 (request id: 20240507112432694698052QK2NFfE6)' error_param=None error_type=chat_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 11:24:47,350 - main - log_requests - line:73 - INFO - rid=MRHKLJ start request path=/download
+2024-05-07 11:24:47,352 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:24:47,354 - main - log_requests - line:80 - INFO - rid=MRHKLJ completed_in=3.00ms status_code=200
+2024-05-07 11:24:47,473 - main - log_requests - line:73 - INFO - rid=ZKY3PE start request path=/analyze
+2024-05-07 11:24:47,473 - main - log_requests - line:80 - INFO - rid=ZKY3PE completed_in=0.00ms status_code=200
+2024-05-07 11:24:47,483 - main - log_requests - line:73 - INFO - rid=HE8UWP start request path=/analyze
+2024-05-07 11:24:47,485 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 11:24:47,490 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CB091AD0>
+2024-05-07 11:24:47,493 - main - log_requests - line:80 - INFO - rid=HE8UWP completed_in=10.00ms status_code=200
+2024-05-07 11:25:06,102 - main - log_requests - line:73 - INFO - rid=BV3VRD start request path=/download
+2024-05-07 11:25:06,102 - main - log_requests - line:80 - INFO - rid=BV3VRD completed_in=0.00ms status_code=200
+2024-05-07 11:25:06,108 - main - log_requests - line:73 - INFO - rid=YFBBN0 start request path=/download
+2024-05-07 11:25:06,110 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:25:06,111 - main - log_requests - line:80 - INFO - rid=YFBBN0 completed_in=2.05ms status_code=200
+2024-05-07 11:25:06,221 - main - log_requests - line:73 - INFO - rid=4F6VNT start request path=/analyze
+2024-05-07 11:25:06,222 - main - log_requests - line:80 - INFO - rid=4F6VNT completed_in=0.99ms status_code=200
+2024-05-07 11:25:06,229 - main - log_requests - line:73 - INFO - rid=12EP62 start request path=/analyze
+2024-05-07 11:25:06,231 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:25:06,239 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CB090B90>
+2024-05-07 11:25:06,241 - main - log_requests - line:80 - INFO - rid=12EP62 completed_in=11.03ms status_code=200
+2024-05-07 11:25:24,253 - main - log_requests - line:73 - INFO - rid=9WRAGD start request path=/download
+2024-05-07 11:25:24,255 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:25:24,257 - main - log_requests - line:80 - INFO - rid=9WRAGD completed_in=3.00ms status_code=200
+2024-05-07 11:25:24,404 - main - log_requests - line:73 - INFO - rid=CBU4BJ start request path=/analyze
+2024-05-07 11:25:24,405 - main - log_requests - line:80 - INFO - rid=CBU4BJ completed_in=1.00ms status_code=200
+2024-05-07 11:25:24,501 - main - log_requests - line:73 - INFO - rid=0R3N8O start request path=/analyze
+2024-05-07 11:25:24,503 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:25:24,509 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000233CB0E00D0>
+2024-05-07 11:25:24,511 - main - log_requests - line:80 - INFO - rid=0R3N8O completed_in=10.00ms status_code=200
+2024-05-07 11:25:35,205 - main - log_requests - line:73 - INFO - rid=6C845W start request path=/chat
+2024-05-07 11:25:35,211 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 11:25:35,213 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000233CB0E0AD0>
+2024-05-07 11:25:42,213 - main - log_requests - line:80 - INFO - rid=6C845W completed_in=7008.68ms status_code=200
+2024-05-07 11:29:24,527 - main - log_requests - line:73 - INFO - rid=0PWMKW start request path=/download
+2024-05-07 11:29:24,530 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:29:24,531 - main - log_requests - line:80 - INFO - rid=0PWMKW completed_in=3.00ms status_code=200
+2024-05-07 11:29:24,642 - main - log_requests - line:73 - INFO - rid=WEJTU7 start request path=/analyze
+2024-05-07 11:29:24,644 - main - log_requests - line:80 - INFO - rid=WEJTU7 completed_in=2.01ms status_code=200
+2024-05-07 11:29:24,655 - main - log_requests - line:73 - INFO - rid=VP45Y9 start request path=/analyze
+2024-05-07 11:29:24,656 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:29:24,670 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A34F8C310>
+2024-05-07 11:29:24,671 - main - log_requests - line:80 - INFO - rid=VP45Y9 completed_in=16.00ms status_code=200
+2024-05-07 11:29:37,378 - main - log_requests - line:73 - INFO - rid=JG8O8C start request path=/chat
+2024-05-07 11:29:37,379 - main - log_requests - line:80 - INFO - rid=JG8O8C completed_in=0.00ms status_code=200
+2024-05-07 11:29:37,385 - main - log_requests - line:73 - INFO - rid=DC844G start request path=/chat
+2024-05-07 11:29:37,387 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 11:29:37,389 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000020A3502FE50>
+2024-05-07 11:35:50,671 - main - log_requests - line:73 - INFO - rid=SP9O84 start request path=/download
+2024-05-07 11:35:50,691 - main - log_requests - line:80 - INFO - rid=SP9O84 completed_in=13.92ms status_code=200
+2024-05-07 11:35:50,712 - main - log_requests - line:73 - INFO - rid=U3QUUA start request path=/download
+2024-05-07 11:35:50,728 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:35:50,742 - main - log_requests - line:80 - INFO - rid=U3QUUA completed_in=30.05ms status_code=200
+2024-05-07 11:35:50,877 - main - log_requests - line:73 - INFO - rid=MA6MES start request path=/analyze
+2024-05-07 11:35:50,878 - main - log_requests - line:80 - INFO - rid=MA6MES completed_in=1.00ms status_code=200
+2024-05-07 11:35:50,888 - main - log_requests - line:73 - INFO - rid=NXTTLH start request path=/analyze
+2024-05-07 11:35:50,890 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:35:50,917 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A3502DD90>
+2024-05-07 11:35:50,919 - main - log_requests - line:80 - INFO - rid=NXTTLH completed_in=31.00ms status_code=200
+2024-05-07 11:53:12,015 - main - log_requests - line:73 - INFO - rid=DASCQQ start request path=/download
+2024-05-07 11:53:12,075 - main - log_requests - line:80 - INFO - rid=DASCQQ completed_in=19.85ms status_code=200
+2024-05-07 11:53:12,116 - main - log_requests - line:73 - INFO - rid=ND8JEQ start request path=/download
+2024-05-07 11:53:12,156 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:53:12,173 - main - log_requests - line:80 - INFO - rid=ND8JEQ completed_in=57.30ms status_code=200
+2024-05-07 11:53:12,474 - main - log_requests - line:73 - INFO - rid=CIYSUT start request path=/analyze
+2024-05-07 11:53:12,477 - main - log_requests - line:80 - INFO - rid=CIYSUT completed_in=0.51ms status_code=200
+2024-05-07 11:53:12,509 - main - log_requests - line:73 - INFO - rid=F3E71V start request path=/analyze
+2024-05-07 11:53:12,513 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:53:12,652 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000020A3615C350>
+2024-05-07 11:53:12,661 - main - log_requests - line:80 - INFO - rid=F3E71V completed_in=151.00ms status_code=200
+2024-05-07 11:53:59,662 - main - log_requests - line:73 - INFO - rid=QFMDTW start request path=/chat
+2024-05-07 11:53:59,663 - main - log_requests - line:80 - INFO - rid=QFMDTW completed_in=0.00ms status_code=200
+2024-05-07 11:53:59,672 - main - log_requests - line:73 - INFO - rid=JGBXGI start request path=/chat
+2024-05-07 11:53:59,697 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 11:53:59,701 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000020A3615DD50>
+2024-05-07 11:54:53,610 - main - log_requests - line:73 - INFO - rid=WG0LFU start request path=/download
+2024-05-07 11:54:53,615 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:54:53,617 - main - log_requests - line:80 - INFO - rid=WG0LFU completed_in=6.00ms status_code=200
+2024-05-07 11:54:53,832 - main - log_requests - line:73 - INFO - rid=5JL92Z start request path=/analyze
+2024-05-07 11:54:53,833 - main - log_requests - line:80 - INFO - rid=5JL92Z completed_in=0.00ms status_code=200
+2024-05-07 11:54:53,843 - main - log_requests - line:73 - INFO - rid=GEBW25 start request path=/analyze
+2024-05-07 11:54:53,845 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 11:54:53,862 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000002C9CF1F1090>
+2024-05-07 11:54:53,865 - main - log_requests - line:80 - INFO - rid=GEBW25 completed_in=22.01ms status_code=200
+2024-05-07 11:55:02,142 - main - log_requests - line:73 - INFO - rid=I2SGFH start request path=/chat
+2024-05-07 11:55:02,144 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 11:55:02,145 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000002C9CF2AF590>
+2024-05-07 12:00:58,704 - main - log_requests - line:73 - INFO - rid=Y0S9C4 start request path=/download
+2024-05-07 12:00:58,712 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:00:58,722 - main - log_requests - line:80 - INFO - rid=Y0S9C4 completed_in=17.00ms status_code=200
+2024-05-07 12:00:58,989 - main - log_requests - line:73 - INFO - rid=IIAVZK start request path=/analyze
+2024-05-07 12:00:58,991 - main - log_requests - line:80 - INFO - rid=IIAVZK completed_in=0.00ms status_code=200
+2024-05-07 12:00:59,005 - main - log_requests - line:73 - INFO - rid=4MES8P start request path=/analyze
+2024-05-07 12:00:59,007 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:00:59,030 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000224895E0D50>
+2024-05-07 12:00:59,032 - main - log_requests - line:80 - INFO - rid=4MES8P completed_in=27.00ms status_code=200
+2024-05-07 12:01:03,149 - main - log_requests - line:73 - INFO - rid=A2KMO3 start request path=/chat
+2024-05-07 12:01:03,154 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"？"}}]
+2024-05-07 12:01:03,156 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000224895E2A90>
+2024-05-07 12:04:35,926 - main - log_requests - line:73 - INFO - rid=RL9P21 start request path=/download
+2024-05-07 12:04:35,941 - main - log_requests - line:80 - INFO - rid=RL9P21 completed_in=5.01ms status_code=200
+2024-05-07 12:04:35,951 - main - log_requests - line:73 - INFO - rid=N3UWVB start request path=/download
+2024-05-07 12:04:35,980 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:04:35,991 - main - log_requests - line:80 - INFO - rid=N3UWVB completed_in=39.00ms status_code=200
+2024-05-07 12:04:36,235 - main - log_requests - line:73 - INFO - rid=NLB09J start request path=/analyze
+2024-05-07 12:04:36,236 - main - log_requests - line:80 - INFO - rid=NLB09J completed_in=0.00ms status_code=200
+2024-05-07 12:04:36,248 - main - log_requests - line:73 - INFO - rid=LTY2BM start request path=/analyze
+2024-05-07 12:04:36,252 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:04:36,278 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000224895E1D90>
+2024-05-07 12:04:36,288 - main - log_requests - line:80 - INFO - rid=LTY2BM completed_in=38.46ms status_code=200
+2024-05-07 12:04:46,711 - main - log_requests - line:73 - INFO - rid=JZ5GLI start request path=/chat
+2024-05-07 12:04:46,712 - main - log_requests - line:80 - INFO - rid=JZ5GLI completed_in=0.00ms status_code=200
+2024-05-07 12:04:46,720 - main - log_requests - line:73 - INFO - rid=EDSDH5 start request path=/chat
+2024-05-07 12:04:46,723 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 12:04:46,726 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000224897303D0>
+2024-05-07 12:05:44,110 - main - log_requests - line:73 - INFO - rid=6AZS4U start request path=/download
+2024-05-07 12:05:44,115 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:05:44,118 - main - log_requests - line:80 - INFO - rid=6AZS4U completed_in=7.00ms status_code=200
+2024-05-07 12:05:44,250 - main - log_requests - line:73 - INFO - rid=WOMMVK start request path=/analyze
+2024-05-07 12:05:44,251 - main - log_requests - line:80 - INFO - rid=WOMMVK completed_in=0.00ms status_code=200
+2024-05-07 12:05:44,263 - main - log_requests - line:73 - INFO - rid=GOWSX4 start request path=/analyze
+2024-05-07 12:05:44,264 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:05:44,279 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000029A2C400A90>
+2024-05-07 12:05:44,280 - main - log_requests - line:80 - INFO - rid=GOWSX4 completed_in=17.00ms status_code=200
+2024-05-07 12:05:54,309 - main - log_requests - line:73 - INFO - rid=KCR4AK start request path=/chat
+2024-05-07 12:05:54,312 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇文章的创新点是什么"}}]
+2024-05-07 12:05:54,314 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000029A2C403310>
+2024-05-07 12:07:35,805 - main - log_requests - line:73 - INFO - rid=NQPEB2 start request path=/download
+2024-05-07 12:07:35,811 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:07:35,814 - main - log_requests - line:80 - INFO - rid=NQPEB2 completed_in=7.00ms status_code=200
+2024-05-07 12:07:35,978 - main - log_requests - line:73 - INFO - rid=4JJ1OI start request path=/analyze
+2024-05-07 12:07:35,982 - main - log_requests - line:80 - INFO - rid=4JJ1OI completed_in=1.00ms status_code=200
+2024-05-07 12:07:35,994 - main - log_requests - line:73 - INFO - rid=6OMXTM start request path=/analyze
+2024-05-07 12:07:35,996 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:07:36,013 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000025D58D40C10>
+2024-05-07 12:07:36,015 - main - log_requests - line:80 - INFO - rid=6OMXTM completed_in=21.00ms status_code=200
+2024-05-07 12:07:42,478 - main - log_requests - line:73 - INFO - rid=NWXCCF start request path=/chat
+2024-05-07 12:07:42,482 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:07:42,484 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000025D58D433D0>
+2024-05-07 12:08:41,566 - main - log_requests - line:73 - INFO - rid=IGVLUS start request path=/download
+2024-05-07 12:08:41,570 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:08:41,572 - main - log_requests - line:80 - INFO - rid=IGVLUS completed_in=5.00ms status_code=200
+2024-05-07 12:08:41,757 - main - log_requests - line:73 - INFO - rid=SLW154 start request path=/analyze
+2024-05-07 12:08:41,758 - main - log_requests - line:80 - INFO - rid=SLW154 completed_in=0.00ms status_code=200
+2024-05-07 12:08:41,767 - main - log_requests - line:73 - INFO - rid=EQ3HRE start request path=/analyze
+2024-05-07 12:08:41,769 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:08:41,773 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000025D58D19B10>
+2024-05-07 12:08:41,774 - main - log_requests - line:80 - INFO - rid=EQ3HRE completed_in=7.00ms status_code=200
+2024-05-07 12:08:55,579 - main - log_requests - line:73 - INFO - rid=TH4SM1 start request path=/chat
+2024-05-07 12:08:55,598 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:08:55,607 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000025D58D43610>
+2024-05-07 12:10:06,880 - main - log_requests - line:73 - INFO - rid=20T9IT start request path=/download
+2024-05-07 12:10:06,892 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:10:06,907 - main - log_requests - line:80 - INFO - rid=20T9IT completed_in=25.00ms status_code=200
+2024-05-07 12:10:07,077 - main - log_requests - line:73 - INFO - rid=DQ9X78 start request path=/analyze
+2024-05-07 12:10:07,079 - main - log_requests - line:80 - INFO - rid=DQ9X78 completed_in=1.01ms status_code=200
+2024-05-07 12:10:07,090 - main - log_requests - line:73 - INFO - rid=C8DBTI start request path=/analyze
+2024-05-07 12:10:07,093 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:10:07,098 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000025D59E6F010>
+2024-05-07 12:10:07,102 - main - log_requests - line:80 - INFO - rid=C8DBTI completed_in=11.00ms status_code=200
+2024-05-07 12:10:10,641 - main - log_requests - line:73 - INFO - rid=F25TV6 start request path=/chat
+2024-05-07 12:10:10,645 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:10:10,654 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000025D58C83DD0>
+2024-05-07 12:10:38,083 - main - log_requests - line:73 - INFO - rid=MIXU9P start request path=/download
+2024-05-07 12:10:38,085 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:10:38,088 - main - log_requests - line:80 - INFO - rid=MIXU9P completed_in=5.00ms status_code=200
+2024-05-07 12:10:38,327 - main - log_requests - line:73 - INFO - rid=LDQJEC start request path=/analyze
+2024-05-07 12:10:38,329 - main - log_requests - line:80 - INFO - rid=LDQJEC completed_in=0.00ms status_code=200
+2024-05-07 12:10:38,337 - main - log_requests - line:73 - INFO - rid=MIALC8 start request path=/analyze
+2024-05-07 12:10:38,339 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:10:38,343 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000025D59E6FDD0>
+2024-05-07 12:10:38,346 - main - log_requests - line:80 - INFO - rid=MIALC8 completed_in=8.92ms status_code=200
+2024-05-07 12:10:45,764 - main - log_requests - line:73 - INFO - rid=IH2AFZ start request path=/chat
+2024-05-07 12:10:45,766 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:10:45,768 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000025D59E688D0>
+2024-05-07 12:12:39,894 - main - log_requests - line:73 - INFO - rid=VMIXUW start request path=/download
+2024-05-07 12:12:39,899 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:12:39,901 - main - log_requests - line:80 - INFO - rid=VMIXUW completed_in=5.00ms status_code=200
+2024-05-07 12:12:40,156 - main - log_requests - line:73 - INFO - rid=N5QPQU start request path=/analyze
+2024-05-07 12:12:40,157 - main - log_requests - line:80 - INFO - rid=N5QPQU completed_in=0.00ms status_code=200
+2024-05-07 12:12:40,171 - main - log_requests - line:73 - INFO - rid=FMDD1D start request path=/analyze
+2024-05-07 12:12:40,173 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:12:40,285 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000214DA570990>
+2024-05-07 12:12:40,288 - main - log_requests - line:80 - INFO - rid=FMDD1D completed_in=116.68ms status_code=200
+2024-05-07 12:12:44,808 - main - log_requests - line:73 - INFO - rid=33V5SG start request path=/chat
+2024-05-07 12:12:44,811 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:12:44,813 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000214DA572D10>
+2024-05-07 12:13:54,735 - main - log_requests - line:73 - INFO - rid=U5K1B4 start request path=/download
+2024-05-07 12:13:54,737 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:13:54,738 - main - log_requests - line:80 - INFO - rid=U5K1B4 completed_in=2.00ms status_code=200
+2024-05-07 12:13:54,853 - main - log_requests - line:73 - INFO - rid=2CY021 start request path=/analyze
+2024-05-07 12:13:54,853 - main - log_requests - line:80 - INFO - rid=2CY021 completed_in=0.00ms status_code=200
+2024-05-07 12:13:54,860 - main - log_requests - line:73 - INFO - rid=M9CQM9 start request path=/analyze
+2024-05-07 12:13:54,863 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 12:13:54,867 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000214DA571FD0>
+2024-05-07 12:13:54,869 - main - log_requests - line:80 - INFO - rid=M9CQM9 completed_in=7.99ms status_code=200
+2024-05-07 12:14:08,671 - main - log_requests - line:73 - INFO - rid=KHQBDY start request path=/chat
+2024-05-07 12:14:08,672 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"hi"}}]
+2024-05-07 12:14:08,673 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000214DA549510>
+2024-05-07 12:16:50,507 - main - log_requests - line:73 - INFO - rid=XJZHK4 start request path=/recent_papers
+2024-05-07 12:16:50,513 - main - log_requests - line:80 - INFO - rid=XJZHK4 completed_in=1.00ms status_code=200
+2024-05-07 12:16:50,525 - main - log_requests - line:73 - INFO - rid=25JYJC start request path=/recent_papers
+2024-05-07 12:16:50,578 - main - log_requests - line:80 - INFO - rid=25JYJC completed_in=53.00ms status_code=200
+2024-05-07 12:16:54,931 - main - log_requests - line:73 - INFO - rid=5IU46R start request path=/download
+2024-05-07 12:16:54,932 - main - log_requests - line:80 - INFO - rid=5IU46R completed_in=0.00ms status_code=200
+2024-05-07 12:16:54,947 - main - log_requests - line:73 - INFO - rid=GY3VD5 start request path=/download
+2024-05-07 12:16:54,949 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:16:54,951 - main - log_requests - line:80 - INFO - rid=GY3VD5 completed_in=4.00ms status_code=200
+2024-05-07 12:16:55,296 - main - log_requests - line:73 - INFO - rid=KM5GC8 start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:16:55,778 - main - log_requests - line:80 - INFO - rid=KM5GC8 completed_in=482.00ms status_code=304
+2024-05-07 12:16:55,956 - main - log_requests - line:73 - INFO - rid=XKCW0R start request path=/analyze
+2024-05-07 12:16:55,958 - main - log_requests - line:80 - INFO - rid=XKCW0R completed_in=1.00ms status_code=200
+2024-05-07 12:16:55,972 - main - log_requests - line:73 - INFO - rid=GTD5KD start request path=/analyze
+2024-05-07 12:16:55,974 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:16:55,983 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000016ACA7E3C90>
+2024-05-07 12:16:55,985 - main - log_requests - line:80 - INFO - rid=GTD5KD completed_in=11.99ms status_code=200
+2024-05-07 12:17:05,265 - main - log_requests - line:73 - INFO - rid=5PAT1M start request path=/chat
+2024-05-07 12:17:05,265 - main - log_requests - line:80 - INFO - rid=5PAT1M completed_in=0.00ms status_code=200
+2024-05-07 12:17:05,269 - main - log_requests - line:73 - INFO - rid=C84PNE start request path=/chat
+2024-05-07 12:17:05,270 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:17:05,272 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000016ACA7EE5D0>
+2024-05-07 12:18:38,441 - main - log_requests - line:73 - INFO - rid=G0BDD3 start request path=/download
+2024-05-07 12:18:38,446 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:18:38,448 - main - log_requests - line:80 - INFO - rid=G0BDD3 completed_in=6.00ms status_code=200
+2024-05-07 12:18:38,643 - main - log_requests - line:73 - INFO - rid=LR9YR7 start request path=/analyze
+2024-05-07 12:18:38,644 - main - log_requests - line:80 - INFO - rid=LR9YR7 completed_in=1.00ms status_code=200
+2024-05-07 12:18:38,652 - main - log_requests - line:73 - INFO - rid=KQLPO5 start request path=/analyze
+2024-05-07 12:18:38,655 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:18:38,659 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000016ACA7CA2D0>
+2024-05-07 12:18:38,780 - main - log_requests - line:80 - INFO - rid=KQLPO5 completed_in=126.00ms status_code=200
+2024-05-07 12:18:43,938 - main - log_requests - line:73 - INFO - rid=DOOJQY start request path=/chat
+2024-05-07 12:18:43,940 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:18:43,942 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000016ACB90C0D0>
+2024-05-07 12:19:35,813 - main - log_requests - line:73 - INFO - rid=DEZTX1 start request path=/download
+2024-05-07 12:19:35,826 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:19:35,840 - main - log_requests - line:80 - INFO - rid=DEZTX1 completed_in=24.00ms status_code=200
+2024-05-07 12:19:36,141 - main - log_requests - line:73 - INFO - rid=M2A40B start request path=/analyze
+2024-05-07 12:19:36,142 - main - log_requests - line:80 - INFO - rid=M2A40B completed_in=1.00ms status_code=200
+2024-05-07 12:19:36,158 - main - log_requests - line:73 - INFO - rid=00VU90 start request path=/analyze
+2024-05-07 12:19:36,161 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:19:36,186 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001EA733601D0>
+2024-05-07 12:19:36,221 - main - log_requests - line:80 - INFO - rid=00VU90 completed_in=62.01ms status_code=200
+2024-05-07 12:19:41,368 - main - log_requests - line:73 - INFO - rid=U3AH0U start request path=/chat
+2024-05-07 12:19:41,370 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:19:41,372 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001EA743F2AD0>
+2024-05-07 12:21:14,222 - main - log_requests - line:73 - INFO - rid=45E1DR start request path=/download
+2024-05-07 12:21:14,223 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:21:14,225 - main - log_requests - line:80 - INFO - rid=45E1DR completed_in=3.00ms status_code=200
+2024-05-07 12:21:14,391 - main - log_requests - line:73 - INFO - rid=I3T74Y start request path=/analyze
+2024-05-07 12:21:14,392 - main - log_requests - line:80 - INFO - rid=I3T74Y completed_in=1.00ms status_code=200
+2024-05-07 12:21:14,397 - main - log_requests - line:73 - INFO - rid=YBNNYW start request path=/analyze
+2024-05-07 12:21:14,399 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:21:14,402 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001EA733550D0>
+2024-05-07 12:21:14,403 - main - log_requests - line:80 - INFO - rid=YBNNYW completed_in=5.00ms status_code=200
+2024-05-07 12:21:17,842 - main - log_requests - line:73 - INFO - rid=OJN3W5 start request path=/chat
+2024-05-07 12:21:17,843 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:21:17,844 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001EA74542710>
+2024-05-07 12:23:21,241 - main - log_requests - line:73 - INFO - rid=5LBI0I start request path=/download
+2024-05-07 12:23:21,244 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:23:21,246 - main - log_requests - line:80 - INFO - rid=5LBI0I completed_in=4.00ms status_code=200
+2024-05-07 12:23:21,401 - main - log_requests - line:73 - INFO - rid=8T7GQ0 start request path=/analyze
+2024-05-07 12:23:21,401 - main - log_requests - line:80 - INFO - rid=8T7GQ0 completed_in=0.00ms status_code=200
+2024-05-07 12:23:21,408 - main - log_requests - line:73 - INFO - rid=SSGWA1 start request path=/analyze
+2024-05-07 12:23:21,410 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:23:21,413 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001EA7454E8D0>
+2024-05-07 12:23:21,414 - main - log_requests - line:80 - INFO - rid=SSGWA1 completed_in=5.00ms status_code=200
+2024-05-07 12:23:25,862 - main - log_requests - line:73 - INFO - rid=0KCVAF start request path=/recent_papers
+2024-05-07 12:23:25,863 - main - log_requests - line:80 - INFO - rid=0KCVAF completed_in=1.01ms status_code=200
+2024-05-07 12:23:25,866 - main - log_requests - line:73 - INFO - rid=H0C8D8 start request path=/recent_papers
+2024-05-07 12:23:25,901 - main - log_requests - line:80 - INFO - rid=H0C8D8 completed_in=34.48ms status_code=200
+2024-05-07 12:23:27,025 - main - log_requests - line:73 - INFO - rid=Q3CT6M start request path=/download
+2024-05-07 12:23:27,026 - main - log_requests - line:80 - INFO - rid=Q3CT6M completed_in=0.14ms status_code=200
+2024-05-07 12:23:27,029 - main - log_requests - line:73 - INFO - rid=JHI2B0 start request path=/download
+2024-05-07 12:23:27,031 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:23:27,032 - main - log_requests - line:80 - INFO - rid=JHI2B0 completed_in=3.29ms status_code=200
+2024-05-07 12:23:27,350 - main - log_requests - line:73 - INFO - rid=71SJVI start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:23:27,473 - main - log_requests - line:80 - INFO - rid=71SJVI completed_in=122.60ms status_code=200
+2024-05-07 12:23:27,500 - main - log_requests - line:73 - INFO - rid=AFY2Z0 start request path=/analyze
+2024-05-07 12:23:27,501 - main - log_requests - line:80 - INFO - rid=AFY2Z0 completed_in=0.00ms status_code=200
+2024-05-07 12:23:27,506 - main - log_requests - line:73 - INFO - rid=5WI9OE start request path=/analyze
+2024-05-07 12:23:27,512 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:23:27,514 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001EA74561DD0>
+2024-05-07 12:23:27,516 - main - log_requests - line:80 - INFO - rid=5WI9OE completed_in=8.70ms status_code=200
+2024-05-07 12:23:33,671 - main - log_requests - line:73 - INFO - rid=MTBZQG start request path=/chat
+2024-05-07 12:23:33,671 - main - log_requests - line:80 - INFO - rid=MTBZQG completed_in=0.00ms status_code=200
+2024-05-07 12:23:33,674 - main - log_requests - line:73 - INFO - rid=ZGWTKJ start request path=/chat
+2024-05-07 12:23:33,675 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:23:33,676 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001EA74562A90>
+2024-05-07 12:24:01,610 - main - log_requests - line:73 - INFO - rid=DHHM8V start request path=/download
+2024-05-07 12:24:01,614 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:24:01,615 - main - log_requests - line:80 - INFO - rid=DHHM8V completed_in=3.99ms status_code=200
+2024-05-07 12:24:01,664 - main - log_requests - line:73 - INFO - rid=RJMYIE start request path=/analyze
+2024-05-07 12:24:01,668 - main - log_requests - line:80 - INFO - rid=RJMYIE completed_in=1.00ms status_code=200
+2024-05-07 12:24:01,674 - main - log_requests - line:73 - INFO - rid=DUFDB2 start request path=/analyze
+2024-05-07 12:24:01,677 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:24:01,689 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001EB9DCA0810>
+2024-05-07 12:24:01,690 - main - log_requests - line:80 - INFO - rid=DUFDB2 completed_in=15.00ms status_code=200
+2024-05-07 12:24:06,726 - main - log_requests - line:73 - INFO - rid=P4RAQU start request path=/chat
+2024-05-07 12:24:06,728 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:24:06,729 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001EB9DC78550>
+2024-05-07 12:26:20,438 - main - log_requests - line:73 - INFO - rid=C6TW4E start request path=/download
+2024-05-07 12:26:20,441 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:26:20,443 - main - log_requests - line:80 - INFO - rid=C6TW4E completed_in=4.96ms status_code=200
+2024-05-07 12:26:20,488 - main - log_requests - line:73 - INFO - rid=3MS266 start request path=/analyze
+2024-05-07 12:26:20,489 - main - log_requests - line:80 - INFO - rid=3MS266 completed_in=1.00ms status_code=200
+2024-05-07 12:26:20,493 - main - log_requests - line:73 - INFO - rid=8LBNYM start request path=/analyze
+2024-05-07 12:26:20,495 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:26:20,503 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000291E8025D90>
+2024-05-07 12:26:20,504 - main - log_requests - line:80 - INFO - rid=8LBNYM completed_in=10.00ms status_code=200
+2024-05-07 12:26:24,297 - main - log_requests - line:73 - INFO - rid=O1NM89 start request path=/chat
+2024-05-07 12:26:24,298 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:26:24,299 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000291E90BEBD0>
+2024-05-07 12:26:25,895 - util - log_info - line:67 - INFO - error_code=None error_message='无效的令牌 (request id: 2024050712262660169274350615529)' error_param=None error_type=one_api_error message='OpenAI API error received' stream_error=False
+2024-05-07 12:26:58,039 - main - log_requests - line:73 - INFO - rid=IJH1MZ start request path=/download
+2024-05-07 12:26:58,041 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:26:58,043 - main - log_requests - line:80 - INFO - rid=IJH1MZ completed_in=4.04ms status_code=200
+2024-05-07 12:26:58,076 - main - log_requests - line:73 - INFO - rid=XGDJBA start request path=/analyze
+2024-05-07 12:26:58,076 - main - log_requests - line:80 - INFO - rid=XGDJBA completed_in=0.00ms status_code=200
+2024-05-07 12:26:58,081 - main - log_requests - line:73 - INFO - rid=DNBJKM start request path=/analyze
+2024-05-07 12:26:58,082 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:26:58,093 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000287C61A4590>
+2024-05-07 12:26:58,094 - main - log_requests - line:80 - INFO - rid=DNBJKM completed_in=13.00ms status_code=200
+2024-05-07 12:27:02,101 - main - log_requests - line:73 - INFO - rid=P0AQCV start request path=/chat
+2024-05-07 12:27:02,103 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:27:02,104 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000287C61A6D10>
+2024-05-07 12:27:05,919 - main - log_requests - line:80 - INFO - rid=P0AQCV completed_in=3818.51ms status_code=200
+2024-05-07 12:31:03,902 - main - log_requests - line:73 - INFO - rid=1EGXPV start request path=/download
+2024-05-07 12:31:03,905 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:31:03,907 - main - log_requests - line:80 - INFO - rid=1EGXPV completed_in=4.97ms status_code=200
+2024-05-07 12:31:03,967 - main - log_requests - line:73 - INFO - rid=FAK5DB start request path=/analyze
+2024-05-07 12:31:03,968 - main - log_requests - line:80 - INFO - rid=FAK5DB completed_in=0.00ms status_code=200
+2024-05-07 12:31:03,974 - main - log_requests - line:73 - INFO - rid=9IRUD7 start request path=/analyze
+2024-05-07 12:31:03,977 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:31:03,990 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001DE46AE4650>
+2024-05-07 12:31:03,992 - main - log_requests - line:80 - INFO - rid=9IRUD7 completed_in=17.00ms status_code=200
+2024-05-07 12:31:07,623 - main - log_requests - line:73 - INFO - rid=DCNT9Y start request path=/chat
+2024-05-07 12:31:07,624 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:31:07,626 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001DE46AE6AD0>
+2024-05-07 12:32:21,139 - main - log_requests - line:73 - INFO - rid=V6OAN4 start request path=/download
+2024-05-07 12:32:21,142 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:32:21,143 - main - log_requests - line:80 - INFO - rid=V6OAN4 completed_in=3.99ms status_code=200
+2024-05-07 12:32:21,182 - main - log_requests - line:73 - INFO - rid=59NFNA start request path=/analyze
+2024-05-07 12:32:21,183 - main - log_requests - line:80 - INFO - rid=59NFNA completed_in=1.00ms status_code=200
+2024-05-07 12:32:21,186 - main - log_requests - line:73 - INFO - rid=EG812D start request path=/analyze
+2024-05-07 12:32:21,188 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:32:21,199 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000029DAEA0CA90>
+2024-05-07 12:32:21,200 - main - log_requests - line:80 - INFO - rid=EG812D completed_in=13.00ms status_code=200
+2024-05-07 12:32:25,805 - main - log_requests - line:73 - INFO - rid=MG0S9P start request path=/chat
+2024-05-07 12:32:25,806 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:32:25,807 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x0000029DAEA0F150>
+2024-05-07 12:36:43,339 - main - log_requests - line:73 - INFO - rid=1DAL96 start request path=/download
+2024-05-07 12:36:43,340 - main - log_requests - line:80 - INFO - rid=1DAL96 completed_in=0.00ms status_code=200
+2024-05-07 12:36:43,343 - main - log_requests - line:73 - INFO - rid=CJ6LMK start request path=/download
+2024-05-07 12:36:43,347 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:36:43,348 - main - log_requests - line:80 - INFO - rid=CJ6LMK completed_in=3.99ms status_code=200
+2024-05-07 12:36:43,678 - main - log_requests - line:73 - INFO - rid=81SRKU start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:36:43,784 - main - log_requests - line:80 - INFO - rid=81SRKU completed_in=106.00ms status_code=304
+2024-05-07 12:36:43,806 - main - log_requests - line:73 - INFO - rid=HJ7LX8 start request path=/analyze
+2024-05-07 12:36:43,807 - main - log_requests - line:80 - INFO - rid=HJ7LX8 completed_in=1.00ms status_code=200
+2024-05-07 12:36:43,810 - main - log_requests - line:73 - INFO - rid=1C6GWO start request path=/analyze
+2024-05-07 12:36:43,812 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:36:43,823 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000206A1E33290>
+2024-05-07 12:36:43,824 - main - log_requests - line:80 - INFO - rid=1C6GWO completed_in=13.00ms status_code=200
+2024-05-07 12:36:47,381 - main - log_requests - line:73 - INFO - rid=8U367Z start request path=/chat
+2024-05-07 12:36:47,382 - main - log_requests - line:80 - INFO - rid=8U367Z completed_in=0.00ms status_code=200
+2024-05-07 12:36:47,385 - main - log_requests - line:73 - INFO - rid=FDDDUL start request path=/chat
+2024-05-07 12:36:47,386 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:36:47,389 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000206A1E3A610>
+2024-05-07 12:36:51,810 - main - log_requests - line:80 - INFO - rid=FDDDUL completed_in=4425.40ms status_code=200
+2024-05-07 12:47:37,318 - main - log_requests - line:73 - INFO - rid=BQQ00D start request path=/download
+2024-05-07 12:47:37,319 - main - log_requests - line:80 - INFO - rid=BQQ00D completed_in=1.00ms status_code=200
+2024-05-07 12:47:37,324 - main - log_requests - line:73 - INFO - rid=DMZ7ZJ start request path=/download
+2024-05-07 12:47:37,327 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:47:37,329 - main - log_requests - line:80 - INFO - rid=DMZ7ZJ completed_in=5.03ms status_code=200
+2024-05-07 12:47:37,425 - main - log_requests - line:73 - INFO - rid=VRF4F6 start request path=/analyze
+2024-05-07 12:47:37,426 - main - log_requests - line:80 - INFO - rid=VRF4F6 completed_in=1.00ms status_code=200
+2024-05-07 12:47:37,435 - main - log_requests - line:73 - INFO - rid=JE3LO1 start request path=/analyze
+2024-05-07 12:47:37,436 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:47:37,450 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000002589910C590>
+2024-05-07 12:47:37,452 - main - log_requests - line:80 - INFO - rid=JE3LO1 completed_in=17.00ms status_code=200
+2024-05-07 12:47:43,864 - main - log_requests - line:73 - INFO - rid=TKOMPQ start request path=/chat
+2024-05-07 12:47:43,864 - main - log_requests - line:80 - INFO - rid=TKOMPQ completed_in=0.00ms status_code=200
+2024-05-07 12:47:43,866 - main - log_requests - line:73 - INFO - rid=837KB8 start request path=/chat
+2024-05-07 12:47:43,868 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:47:43,869 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000002589910F890>
+2024-05-07 12:47:47,641 - main - log_requests - line:80 - INFO - rid=837KB8 completed_in=3774.46ms status_code=200
+2024-05-07 12:48:32,786 - main - log_requests - line:73 - INFO - rid=WJKA3C start request path=/download
+2024-05-07 12:48:32,789 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:48:32,791 - main - log_requests - line:80 - INFO - rid=WJKA3C completed_in=3.99ms status_code=200
+2024-05-07 12:48:32,850 - main - log_requests - line:73 - INFO - rid=8PRW6C start request path=/analyze
+2024-05-07 12:48:32,851 - main - log_requests - line:80 - INFO - rid=8PRW6C completed_in=0.00ms status_code=200
+2024-05-07 12:48:32,858 - main - log_requests - line:73 - INFO - rid=0W8YS6 start request path=/analyze
+2024-05-07 12:48:32,859 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:48:32,873 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220D9BECCD0>
+2024-05-07 12:48:32,875 - main - log_requests - line:80 - INFO - rid=0W8YS6 completed_in=17.00ms status_code=200
+2024-05-07 12:48:36,675 - main - log_requests - line:73 - INFO - rid=EL2PVC start request path=/chat
+2024-05-07 12:48:36,677 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:48:36,679 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220D9BC8550>
+2024-05-07 12:49:07,249 - main - log_requests - line:80 - INFO - rid=EL2PVC completed_in=30573.73ms status_code=200
+2024-05-07 12:54:59,135 - main - log_requests - line:73 - INFO - rid=9OA7DU start request path=/download
+2024-05-07 12:54:59,165 - main - log_requests - line:80 - INFO - rid=9OA7DU completed_in=21.00ms status_code=200
+2024-05-07 12:54:59,180 - main - log_requests - line:73 - INFO - rid=9B4PLB start request path=/download
+2024-05-07 12:54:59,211 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:54:59,218 - main - log_requests - line:80 - INFO - rid=9B4PLB completed_in=37.00ms status_code=200
+2024-05-07 12:54:59,546 - main - log_requests - line:73 - INFO - rid=3OIGHJ start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:54:59,687 - main - log_requests - line:80 - INFO - rid=3OIGHJ completed_in=140.00ms status_code=304
+2024-05-07 12:54:59,774 - main - log_requests - line:73 - INFO - rid=TEC2X5 start request path=/analyze
+2024-05-07 12:54:59,774 - main - log_requests - line:80 - INFO - rid=TEC2X5 completed_in=0.00ms status_code=200
+2024-05-07 12:54:59,785 - main - log_requests - line:73 - INFO - rid=JP4MNR start request path=/analyze
+2024-05-07 12:54:59,787 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:54:59,820 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DB8DAF10>
+2024-05-07 12:54:59,823 - main - log_requests - line:80 - INFO - rid=JP4MNR completed_in=38.00ms status_code=200
+2024-05-07 12:55:13,270 - main - log_requests - line:73 - INFO - rid=NKKTJ4 start request path=/chat
+2024-05-07 12:55:13,272 - main - log_requests - line:80 - INFO - rid=NKKTJ4 completed_in=1.29ms status_code=200
+2024-05-07 12:55:13,277 - main - log_requests - line:73 - INFO - rid=0KPJB0 start request path=/chat
+2024-05-07 12:55:13,285 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:55:13,288 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DB8D7950>
+2024-05-07 12:55:20,435 - util - log_info - line:67 - INFO - error_code=bad_response_status_code error_message='bad response status code 413 (request id: )' error_param=413 error_type=upstream_error message='OpenAI API error received' stream_error=False
+2024-05-07 12:56:18,617 - main - log_requests - line:73 - INFO - rid=GTX8PM start request path=/download
+2024-05-07 12:56:18,620 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:56:18,621 - main - log_requests - line:80 - INFO - rid=GTX8PM completed_in=3.02ms status_code=200
+2024-05-07 12:56:18,759 - main - log_requests - line:73 - INFO - rid=8EX7VF start request path=/analyze
+2024-05-07 12:56:18,759 - main - log_requests - line:80 - INFO - rid=8EX7VF completed_in=0.00ms status_code=200
+2024-05-07 12:56:18,766 - main - log_requests - line:73 - INFO - rid=RB41AH start request path=/analyze
+2024-05-07 12:56:18,767 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:56:18,772 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD92A90>
+2024-05-07 12:56:18,774 - main - log_requests - line:80 - INFO - rid=RB41AH completed_in=8.00ms status_code=200
+2024-05-07 12:56:22,708 - main - log_requests - line:73 - INFO - rid=8GSHBN start request path=/chat
+2024-05-07 12:56:22,710 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你是谁"}}]
+2024-05-07 12:56:22,712 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD93A10>
+2024-05-07 12:56:29,111 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 4096 tokens. However, your messages resulted in 12222 tokens. Please reduce the length of the messages. (request id: 2024050712562863220405QFnxmhl7) (request id: 20240507125616835999780GFJLnBJE) (request id: ) (request id: )" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-07 12:57:51,214 - main - log_requests - line:73 - INFO - rid=8JLPPU start request path=/download
+2024-05-07 12:57:51,216 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:57:51,217 - main - log_requests - line:80 - INFO - rid=8JLPPU completed_in=3.00ms status_code=200
+2024-05-07 12:57:51,320 - main - log_requests - line:73 - INFO - rid=I4TQ01 start request path=/analyze
+2024-05-07 12:57:51,321 - main - log_requests - line:80 - INFO - rid=I4TQ01 completed_in=0.00ms status_code=200
+2024-05-07 12:57:51,330 - main - log_requests - line:73 - INFO - rid=ZZAER7 start request path=/analyze
+2024-05-07 12:57:51,331 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 12:57:51,333 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD8EB90>
+2024-05-07 12:57:51,335 - main - log_requests - line:80 - INFO - rid=ZZAER7 completed_in=4.97ms status_code=200
+2024-05-07 12:57:55,703 - main - log_requests - line:73 - INFO - rid=PX6AZU start request path=/chat
+2024-05-07 12:57:55,704 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"hi"}}]
+2024-05-07 12:57:55,705 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD90550>
+2024-05-07 12:58:00,797 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 4096 tokens. However, your messages resulted in 12219 tokens. Please reduce the length of the messages. (request id: 20240507125800428073324ZWR6lqma) (request id: 2024050712580033643686326194585) (request id: 20240507125800302287403Lc8aUVBv) (request id: )" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-07 12:58:10,180 - main - log_requests - line:73 - INFO - rid=QSSYGL start request path=/recent_papers
+2024-05-07 12:58:10,180 - main - log_requests - line:80 - INFO - rid=QSSYGL completed_in=0.00ms status_code=200
+2024-05-07 12:58:10,184 - main - log_requests - line:73 - INFO - rid=4J6X6I start request path=/recent_papers
+2024-05-07 12:58:10,247 - main - log_requests - line:80 - INFO - rid=4J6X6I completed_in=62.55ms status_code=200
+2024-05-07 12:59:09,943 - main - log_requests - line:73 - INFO - rid=2MBE4G start request path=/download
+2024-05-07 12:59:09,944 - main - log_requests - line:80 - INFO - rid=2MBE4G completed_in=0.00ms status_code=200
+2024-05-07 12:59:09,950 - main - log_requests - line:73 - INFO - rid=BAO3P5 start request path=/download
+2024-05-07 12:59:09,951 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-07 12:59:09,952 - main - log_requests - line:80 - INFO - rid=BAO3P5 completed_in=2.00ms status_code=200
+2024-05-07 12:59:10,274 - main - log_requests - line:73 - INFO - rid=167L6B start request path=/static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-07 12:59:10,277 - main - log_requests - line:80 - INFO - rid=167L6B completed_in=1.96ms status_code=304
+2024-05-07 12:59:10,350 - main - log_requests - line:73 - INFO - rid=0RGJQO start request path=/analyze
+2024-05-07 12:59:10,350 - main - log_requests - line:80 - INFO - rid=0RGJQO completed_in=0.00ms status_code=200
+2024-05-07 12:59:10,359 - main - log_requests - line:73 - INFO - rid=GXFV1P start request path=/analyze
+2024-05-07 12:59:10,361 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-07 12:59:10,363 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD8FDD0>
+2024-05-07 12:59:10,364 - main - log_requests - line:80 - INFO - rid=GXFV1P completed_in=3.79ms status_code=200
+2024-05-07 13:00:01,916 - main - log_requests - line:73 - INFO - rid=B9HP2F start request path=/chat
+2024-05-07 13:00:01,918 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"hi"}}]
+2024-05-07 13:00:01,919 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD01250>
+2024-05-07 13:00:12,543 - main - log_requests - line:80 - INFO - rid=B9HP2F completed_in=10627.48ms status_code=200
+2024-05-07 13:01:11,071 - main - log_requests - line:73 - INFO - rid=0WHRNJ start request path=/chat
+2024-05-07 13:01:11,074 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"hi"}},{"author":"GPT4","type":"text","data":{"text":"好的，我会用中文回答问题。请问您有什么问题？"}},{"author":"me","type":"text","data":{"text":"这篇文章的创新点是什么"}}]
+2024-05-07 13:01:11,076 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD02A50>
+2024-05-07 13:01:17,268 - util - log_info - line:67 - INFO - error_code=bad_response_status_code error_message='bad response status code 413 (request id: )' error_param=413 error_type=upstream_error message='OpenAI API error received' stream_error=False
+2024-05-07 13:01:50,624 - main - log_requests - line:73 - INFO - rid=F4X5A7 start request path=/download
+2024-05-07 13:01:50,625 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-07 13:01:50,626 - main - log_requests - line:80 - INFO - rid=F4X5A7 completed_in=2.00ms status_code=200
+2024-05-07 13:01:50,724 - main - log_requests - line:73 - INFO - rid=JCM47M start request path=/analyze
+2024-05-07 13:01:50,724 - main - log_requests - line:80 - INFO - rid=JCM47M completed_in=0.00ms status_code=200
+2024-05-07 13:01:50,730 - main - log_requests - line:73 - INFO - rid=0MDZSV start request path=/analyze
+2024-05-07 13:01:50,732 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-07 13:01:50,734 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD00C10>
+2024-05-07 13:01:50,736 - main - log_requests - line:80 - INFO - rid=0MDZSV completed_in=4.99ms status_code=200
+2024-05-07 13:01:58,082 - main - log_requests - line:73 - INFO - rid=Q0V3SJ start request path=/chat
+2024-05-07 13:01:58,084 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"这篇文章的创新点是什么"}}]
+2024-05-07 13:01:58,085 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD1C4D0>
+2024-05-07 13:02:17,023 - main - log_requests - line:80 - INFO - rid=Q0V3SJ completed_in=18939.81ms status_code=200
+2024-05-07 13:27:49,039 - main - log_requests - line:73 - INFO - rid=59EVUF start request path=/recent_papers
+2024-05-07 13:27:49,048 - main - log_requests - line:80 - INFO - rid=59EVUF completed_in=6.02ms status_code=200
+2024-05-07 13:27:49,059 - main - log_requests - line:73 - INFO - rid=ZF1VV1 start request path=/recent_papers
+2024-05-07 13:27:49,138 - main - log_requests - line:80 - INFO - rid=ZF1VV1 completed_in=79.75ms status_code=200
+2024-05-07 13:28:31,309 - main - log_requests - line:73 - INFO - rid=MB7DRV start request path=/download
+2024-05-07 13:28:31,310 - main - log_requests - line:80 - INFO - rid=MB7DRV completed_in=0.00ms status_code=200
+2024-05-07 13:28:31,318 - main - log_requests - line:73 - INFO - rid=AV4LT4 start request path=/download
+2024-05-07 13:28:31,323 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 13:28:31,325 - main - log_requests - line:80 - INFO - rid=AV4LT4 completed_in=6.00ms status_code=200
+2024-05-07 13:28:31,669 - main - log_requests - line:73 - INFO - rid=2AOO65 start request path=/static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 13:28:31,684 - main - log_requests - line:80 - INFO - rid=2AOO65 completed_in=13.99ms status_code=304
+2024-05-07 13:28:31,791 - main - log_requests - line:73 - INFO - rid=BUZ9D1 start request path=/analyze
+2024-05-07 13:28:31,792 - main - log_requests - line:80 - INFO - rid=BUZ9D1 completed_in=1.00ms status_code=200
+2024-05-07 13:28:31,808 - main - log_requests - line:73 - INFO - rid=0JD393 start request path=/analyze
+2024-05-07 13:28:31,810 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 13:28:31,817 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD55550>
+2024-05-07 13:28:31,820 - main - log_requests - line:80 - INFO - rid=0JD393 completed_in=11.00ms status_code=200
+2024-05-07 13:28:47,989 - main - log_requests - line:73 - INFO - rid=M18P8D start request path=/re_analyze
+2024-05-07 13:28:47,989 - main - log_requests - line:80 - INFO - rid=M18P8D completed_in=0.00ms status_code=200
+2024-05-07 13:28:47,996 - main - log_requests - line:73 - INFO - rid=UXGSRV start request path=/re_analyze
+2024-05-07 13:28:48,004 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/06/82acb417cbc56a724b1b0c59ba6890d5.pdf
+2024-05-07 13:30:46,967 - main - analyze_pdf - line:375 - INFO - title=DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models (DiffuMask: 使用扩散模型为语义分割合成具有像素级注释的图像)
+2024-05-07 13:30:47,068 - main - log_requests - line:80 - INFO - rid=UXGSRV completed_in=119072.27ms status_code=200
+2024-05-07 13:32:50,178 - main - log_requests - line:73 - INFO - rid=AYPZVE start request path=/recent_papers
+2024-05-07 13:32:50,193 - main - log_requests - line:80 - INFO - rid=AYPZVE completed_in=13.00ms status_code=200
+2024-05-07 13:32:55,391 - main - log_requests - line:73 - INFO - rid=86JEQY start request path=/download
+2024-05-07 13:32:55,392 - main - log_requests - line:80 - INFO - rid=86JEQY completed_in=0.00ms status_code=200
+2024-05-07 13:32:55,396 - main - log_requests - line:73 - INFO - rid=VX2316 start request path=/download
+2024-05-07 13:32:55,396 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 13:32:55,397 - main - log_requests - line:80 - INFO - rid=VX2316 completed_in=1.00ms status_code=200
+2024-05-07 13:32:55,741 - main - log_requests - line:73 - INFO - rid=49WFX8 start request path=/static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 13:32:55,743 - main - log_requests - line:80 - INFO - rid=49WFX8 completed_in=2.00ms status_code=304
+2024-05-07 13:32:55,805 - main - log_requests - line:73 - INFO - rid=5959G5 start request path=/analyze
+2024-05-07 13:32:55,806 - main - log_requests - line:80 - INFO - rid=5959G5 completed_in=1.00ms status_code=200
+2024-05-07 13:32:55,813 - main - log_requests - line:73 - INFO - rid=4O8HU3 start request path=/analyze
+2024-05-07 13:32:55,814 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 13:32:55,817 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD02090>
+2024-05-07 13:32:55,818 - main - log_requests - line:80 - INFO - rid=4O8HU3 completed_in=5.00ms status_code=200
+2024-05-07 13:33:11,317 - main - log_requests - line:73 - INFO - rid=NQ792B start request path=/re_analyze
+2024-05-07 13:33:11,317 - main - log_requests - line:80 - INFO - rid=NQ792B completed_in=0.00ms status_code=200
+2024-05-07 13:33:11,322 - main - log_requests - line:73 - INFO - rid=HC1JZO start request path=/re_analyze
+2024-05-07 13:33:11,324 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 13:33:39,543 - main - analyze_pdf - line:375 - INFO - title=Inter-slice Context Residual Learning for 3D (三维图像分割中的区间上下文残差学习)
+2024-05-07 13:33:39,558 - main - log_requests - line:80 - INFO - rid=HC1JZO completed_in=28234.86ms status_code=200
+2024-05-07 13:39:22,969 - main - log_requests - line:73 - INFO - rid=DTJA6A start request path=/chat
+2024-05-07 13:39:22,975 - main - log_requests - line:80 - INFO - rid=DTJA6A completed_in=3.39ms status_code=200
+2024-05-07 13:39:22,984 - main - log_requests - line:73 - INFO - rid=LSHL77 start request path=/chat
+2024-05-07 13:39:22,999 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"这篇文章的创新点是什么"}}]
+2024-05-07 13:39:23,016 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220D9BEDE90>
+2024-05-07 13:39:25,997 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 16385 tokens. However, your messages resulted in 23516 tokens. Please reduce the length of the messages. (request id: ) (request id: 2024050713392512576790687978212)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-07 13:39:40,688 - main - log_requests - line:73 - INFO - rid=44T0R6 start request path=/chat
+2024-05-07 13:39:40,690 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"这篇文章的创新点是什么"}},{"author":"GPT4","type":"text","data":{"text":"思考中..."}},{"author":"me","type":"text","data":{"text":"这篇文章主要提出了什么方法"}}]
+2024-05-07 13:39:40,692 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD90D10>
+2024-05-07 13:39:44,818 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 16385 tokens. However, your messages resulted in 23548 tokens. Please reduce the length of the messages. (request id: ) (request id: 2024050713394412415391061177824)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-07 13:39:48,633 - main - log_requests - line:73 - INFO - rid=951E5B start request path=/chat
+2024-05-07 13:39:48,634 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"这篇文章的创新点是什么"}},{"author":"GPT4","type":"text","data":{"text":"思考中..."}},{"author":"me","type":"text","data":{"text":"这篇文章主要提出了什么方法"}},{"author":"GPT4","type":"text","data":{"text":"思考中..."}},{"author":"me","type":"text","data":{"text":"你好"}}]
+2024-05-07 13:39:48,636 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DAD8D890>
+2024-05-07 13:39:51,877 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 16385 tokens. However, your messages resulted in 23569 tokens. Please reduce the length of the messages. (request id: ) (request id: 2024050713395129661089569348949)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-07 13:41:16,379 - main - log_requests - line:73 - INFO - rid=FTT6L2 start request path=/download
+2024-05-07 13:41:16,384 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 13:41:16,386 - main - log_requests - line:80 - INFO - rid=FTT6L2 completed_in=5.00ms status_code=200
+2024-05-07 13:41:16,521 - main - log_requests - line:73 - INFO - rid=055J48 start request path=/analyze
+2024-05-07 13:41:16,522 - main - log_requests - line:80 - INFO - rid=055J48 completed_in=1.00ms status_code=200
+2024-05-07 13:41:16,532 - main - log_requests - line:73 - INFO - rid=ZVKYVM start request path=/analyze
+2024-05-07 13:41:16,534 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/f9bea61fc19dd3949c15db23403cdfff.pdf
+2024-05-07 13:41:16,537 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DACE6DD0>
+2024-05-07 13:41:16,539 - main - log_requests - line:80 - INFO - rid=ZVKYVM completed_in=7.00ms status_code=200
+2024-05-07 13:41:19,717 - main - log_requests - line:73 - INFO - rid=XVXL5G start request path=/chat
+2024-05-07 13:41:19,720 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你好"}}]
+2024-05-07 13:41:19,725 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220D9BACC90>
+2024-05-07 13:41:22,539 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 16385 tokens. However, your messages resulted in 23505 tokens. Please reduce the length of the messages. (request id: ) (request id: 202405071341225786985188152066)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-07 13:42:17,387 - main - log_requests - line:73 - INFO - rid=0XCZ2Q start request path=/chat
+2024-05-07 13:42:17,390 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你好"}}]
+2024-05-07 13:42:17,394 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DACE4550>
+2024-05-07 13:42:19,261 - main - log_requests - line:80 - INFO - rid=0XCZ2Q completed_in=1872.85ms status_code=200
+2024-05-07 13:42:24,872 - main - log_requests - line:73 - INFO - rid=GC4W5U start request path=/chat
+2024-05-07 13:42:24,874 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你好"}},{"author":"GPT4","type":"text","data":{"text":"你好！有什么问题我可以帮你回答呢？"}},{"author":"me","type":"text","data":{"text":"请问你是谁"}}]
+2024-05-07 13:42:24,875 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220D9BC8550>
+2024-05-07 13:42:28,544 - main - log_requests - line:80 - INFO - rid=GC4W5U completed_in=3671.93ms status_code=200
+2024-05-07 13:42:37,692 - main - log_requests - line:73 - INFO - rid=F4GGGI start request path=/chat
+2024-05-07 13:42:37,695 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你好"}},{"author":"GPT4","type":"text","data":{"text":"你好！有什么问题我可以帮你回答呢？"}},{"author":"me","type":"text","data":{"text":"请问你是谁"}},{"author":"GPT4","type":"text","data":{"text":"我是一款擅长总结论文并回答问题的人工智能助手，可以帮助您解决各种问题。有什么我可以帮助您的吗？"}},{"author":"me","type":"text","data":{"text":"请问这篇文章提出了什么方法"}}]
+2024-05-07 13:42:37,696 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220D9BC8550>
+2024-05-07 13:42:41,677 - main - log_requests - line:80 - INFO - rid=F4GGGI completed_in=3983.47ms status_code=200
+2024-05-07 13:42:53,982 - main - log_requests - line:73 - INFO - rid=BGDKOA start request path=/recent_papers
+2024-05-07 13:42:53,983 - main - log_requests - line:80 - INFO - rid=BGDKOA completed_in=0.00ms status_code=200
+2024-05-07 13:42:53,989 - main - log_requests - line:73 - INFO - rid=NUTQD0 start request path=/recent_papers
+2024-05-07 13:42:54,020 - main - log_requests - line:80 - INFO - rid=NUTQD0 completed_in=31.00ms status_code=200
+2024-05-07 13:49:05,309 - main - log_requests - line:73 - INFO - rid=SAALE5 start request path=/download
+2024-05-07 13:49:05,310 - main - log_requests - line:80 - INFO - rid=SAALE5 completed_in=1.01ms status_code=200
+2024-05-07 13:49:05,314 - main - log_requests - line:73 - INFO - rid=ZUW4DF start request path=/download
+2024-05-07 13:49:05,317 - main - upload - line:147 - INFO - pdf_url=https://arxiv.org/abs/2103.15086
+2024-05-07 13:49:05,935 - main - upload - line:155 - ERROR - ValueError: URL does not contain a PDF file.
+2024-05-07 13:49:05,941 - main - log_requests - line:80 - INFO - rid=ZUW4DF completed_in=625.68ms status_code=400
+2024-05-07 13:49:26,540 - main - log_requests - line:73 - INFO - rid=ZZ6HB0 start request path=/recent_papers
+2024-05-07 13:49:26,551 - main - log_requests - line:80 - INFO - rid=ZZ6HB0 completed_in=11.01ms status_code=200
+2024-05-07 13:49:27,970 - main - log_requests - line:73 - INFO - rid=VCAXRE start request path=/download
+2024-05-07 13:49:27,970 - main - log_requests - line:80 - INFO - rid=VCAXRE completed_in=0.00ms status_code=200
+2024-05-07 13:49:27,976 - main - log_requests - line:73 - INFO - rid=U2BWJ2 start request path=/download
+2024-05-07 13:49:27,977 - main - upload - line:147 - INFO - pdf_url=https://arxiv.org/pdf/2103.15086
+2024-05-07 13:50:10,822 - main - download_pdf - line:120 - INFO - response.status_code=200
+2024-05-07 13:50:10,827 - main - download_pdf - line:124 - INFO - file=None
+2024-05-07 13:50:10,831 - main - upload - line:158 - INFO - file_path=static\pdf\2024\05\07\2dd52fc416d059a022bc405f45b2d249.pdf
+2024-05-07 13:50:10,832 - main - log_requests - line:80 - INFO - rid=U2BWJ2 completed_in=42855.59ms status_code=200
+2024-05-07 13:50:11,326 - main - log_requests - line:73 - INFO - rid=HVRWNO start request path=/static/pdf/2024/05/07/2dd52fc416d059a022bc405f45b2d249.pdf
+2024-05-07 13:50:11,339 - main - log_requests - line:80 - INFO - rid=HVRWNO completed_in=12.99ms status_code=200
+2024-05-07 13:50:11,479 - main - log_requests - line:73 - INFO - rid=PDSKD4 start request path=/analyze
+2024-05-07 13:50:11,479 - main - log_requests - line:80 - INFO - rid=PDSKD4 completed_in=0.00ms status_code=200
+2024-05-07 13:50:11,487 - main - log_requests - line:73 - INFO - rid=4ZC91S start request path=/analyze
+2024-05-07 13:50:11,489 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/2dd52fc416d059a022bc405f45b2d249.pdf
+2024-05-07 13:50:11,491 - main - analyze - line:440 - INFO - file=None
+2024-05-07 13:50:11,492 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/2dd52fc416d059a022bc405f45b2d249.pdf
+2024-05-07 13:50:27,044 - main - analyze_pdf - line:375 - INFO - title=学习占位符以进行开放集识别
+2024-05-07 13:50:27,086 - main - log_requests - line:80 - INFO - rid=4ZC91S completed_in=15597.12ms status_code=200
+2024-05-07 13:51:14,203 - main - log_requests - line:73 - INFO - rid=IA0FTF start request path=/recent_papers
+2024-05-07 13:51:14,217 - main - log_requests - line:80 - INFO - rid=IA0FTF completed_in=13.99ms status_code=200
+2024-05-07 14:44:28,709 - main - log_requests - line:73 - INFO - rid=CZIN1U start request path=/download
+2024-05-07 14:44:28,725 - main - log_requests - line:80 - INFO - rid=CZIN1U completed_in=15.63ms status_code=200
+2024-05-07 14:44:28,741 - main - log_requests - line:73 - INFO - rid=0RQM3G start request path=/download
+2024-05-07 14:44:28,756 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-07 14:44:28,763 - main - log_requests - line:80 - INFO - rid=0RQM3G completed_in=22.89ms status_code=200
+2024-05-07 14:44:29,102 - main - log_requests - line:73 - INFO - rid=KUGFTV start request path=/static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-07 14:44:29,117 - main - log_requests - line:80 - INFO - rid=KUGFTV completed_in=15.27ms status_code=200
+2024-05-07 14:44:29,270 - main - log_requests - line:73 - INFO - rid=X2XHTV start request path=/analyze
+2024-05-07 14:44:29,270 - main - log_requests - line:80 - INFO - rid=X2XHTV completed_in=0.00ms status_code=200
+2024-05-07 14:44:29,278 - main - log_requests - line:73 - INFO - rid=CTNONT start request path=/analyze
+2024-05-07 14:44:29,278 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/06/63e3fffe213e98752e13fc300e9455bf.pdf
+2024-05-07 14:44:29,355 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DC090710>
+2024-05-07 14:44:29,367 - main - log_requests - line:80 - INFO - rid=CTNONT completed_in=88.40ms status_code=200
+2024-05-07 14:44:37,222 - main - log_requests - line:73 - INFO - rid=JZOHOE start request path=/recent_papers
+2024-05-07 14:44:37,222 - main - log_requests - line:80 - INFO - rid=JZOHOE completed_in=0.00ms status_code=200
+2024-05-07 14:44:37,227 - main - log_requests - line:73 - INFO - rid=DTA4ZN start request path=/recent_papers
+2024-05-07 14:44:37,263 - main - log_requests - line:80 - INFO - rid=DTA4ZN completed_in=36.36ms status_code=200
+2024-05-07 15:23:26,482 - main - log_requests - line:73 - INFO - rid=GS3P2E start request path=/download
+2024-05-07 15:23:26,482 - main - log_requests - line:80 - INFO - rid=GS3P2E completed_in=0.00ms status_code=200
+2024-05-07 15:23:26,482 - main - log_requests - line:73 - INFO - rid=IGKX4E start request path=/download
+2024-05-07 15:23:26,482 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 15:23:26,482 - main - log_requests - line:80 - INFO - rid=IGKX4E completed_in=0.00ms status_code=200
+2024-05-07 15:23:26,832 - main - log_requests - line:73 - INFO - rid=7CCUYP start request path=/static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 15:23:26,832 - main - log_requests - line:80 - INFO - rid=7CCUYP completed_in=0.00ms status_code=304
+2024-05-07 15:23:26,923 - main - log_requests - line:73 - INFO - rid=364EVF start request path=/analyze
+2024-05-07 15:23:26,924 - main - log_requests - line:80 - INFO - rid=364EVF completed_in=1.00ms status_code=200
+2024-05-07 15:23:26,928 - main - log_requests - line:73 - INFO - rid=5RXTLX start request path=/analyze
+2024-05-07 15:23:26,929 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e02295803f47ea577f78f18a3297ade2.pdf
+2024-05-07 15:23:26,931 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DAD55A90>
+2024-05-07 15:23:26,933 - main - log_requests - line:80 - INFO - rid=5RXTLX completed_in=4.85ms status_code=200
+2024-05-07 15:23:30,733 - main - log_requests - line:73 - INFO - rid=XV202J start request path=/recent_papers
+2024-05-07 15:23:30,734 - main - log_requests - line:80 - INFO - rid=XV202J completed_in=0.00ms status_code=200
+2024-05-07 15:23:30,740 - main - log_requests - line:73 - INFO - rid=ISJ6KD start request path=/recent_papers
+2024-05-07 15:23:30,765 - main - log_requests - line:80 - INFO - rid=ISJ6KD completed_in=25.07ms status_code=200
+2024-05-07 15:23:46,705 - main - log_requests - line:73 - INFO - rid=A88AZO start request path=/recent_papers
+2024-05-07 15:23:46,717 - main - log_requests - line:80 - INFO - rid=A88AZO completed_in=10.99ms status_code=200
+2024-05-07 15:31:17,871 - main - log_requests - line:73 - INFO - rid=SCKZ3U start request path=/download
+2024-05-07 15:31:17,885 - main - log_requests - line:80 - INFO - rid=SCKZ3U completed_in=0.00ms status_code=200
+2024-05-07 15:31:17,886 - main - log_requests - line:73 - INFO - rid=7XSYJK start request path=/download
+2024-05-07 15:31:17,907 - main - upload - line:147 - INFO - pdf_url=https://arxiv.org/pdf/2310.00240
+2024-05-07 15:31:21,908 - main - download_pdf - line:120 - INFO - response.status_code=200
+2024-05-07 15:31:21,951 - main - download_pdf - line:124 - INFO - file=None
+2024-05-07 15:31:21,951 - main - upload - line:158 - INFO - file_path=static\pdf\2024\05\07\ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:31:21,951 - main - log_requests - line:80 - INFO - rid=7XSYJK completed_in=4065.38ms status_code=200
+2024-05-07 15:31:22,301 - main - log_requests - line:73 - INFO - rid=CEYJWD start request path=/static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:31:22,301 - main - log_requests - line:80 - INFO - rid=CEYJWD completed_in=0.00ms status_code=200
+2024-05-07 15:31:22,393 - main - log_requests - line:73 - INFO - rid=DW3SYC start request path=/analyze
+2024-05-07 15:31:22,393 - main - log_requests - line:80 - INFO - rid=DW3SYC completed_in=0.00ms status_code=200
+2024-05-07 15:31:22,393 - main - log_requests - line:73 - INFO - rid=TRU89P start request path=/analyze
+2024-05-07 15:31:22,393 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:31:22,403 - main - analyze - line:440 - INFO - file=None
+2024-05-07 15:31:22,404 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:31:42,883 - main - analyze_pdf - line:375 - INFO - title=学习面具感知的CLIP表示进行零样本分割
+2024-05-07 15:31:42,894 - main - log_requests - line:80 - INFO - rid=TRU89P completed_in=20500.29ms status_code=200
+2024-05-07 15:31:51,655 - main - log_requests - line:73 - INFO - rid=NL8B3W start request path=/re_analyze
+2024-05-07 15:31:51,656 - main - log_requests - line:80 - INFO - rid=NL8B3W completed_in=1.00ms status_code=200
+2024-05-07 15:31:51,660 - main - log_requests - line:73 - INFO - rid=T2U64G start request path=/re_analyze
+2024-05-07 15:31:51,664 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:32:11,237 - connectionpool - urlopen - line:751 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions
+2024-05-07 15:32:16,259 - connectionpool - urlopen - line:751 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))': /v1/chat/completions
+2024-05-07 15:32:46,242 - main - analyze_pdf - line:375 - INFO - title=Learning Mask-aware CLIP Representations for
+2024-05-07 15:32:46,259 - main - log_requests - line:73 - INFO - rid=XI7GTR start request path=/download
+2024-05-07 15:32:46,259 - main - log_requests - line:80 - INFO - rid=T2U64G completed_in=54597.75ms status_code=200
+2024-05-07 15:32:46,259 - main - upload - line:147 - INFO - pdf_url=https://arxiv.org/pdf/2310.00240
+2024-05-07 15:32:51,375 - main - log_requests - line:73 - INFO - rid=FOYROE start request path=/recent_papers
+2024-05-07 15:32:51,391 - main - log_requests - line:80 - INFO - rid=FOYROE completed_in=16.57ms status_code=200
+2024-05-07 15:33:17,117 - main - log_requests - line:73 - INFO - rid=UAS2Z2 start request path=/upload
+2024-05-07 15:33:17,117 - main - log_requests - line:80 - INFO - rid=UAS2Z2 completed_in=0.00ms status_code=200
+2024-05-07 15:33:17,126 - main - log_requests - line:73 - INFO - rid=8W25KC start request path=/upload
+2024-05-07 15:33:17,217 - main - upload - line:174 - INFO - file=UploadFile(filename='Shunted Self-Attention via Multi-Scale Token Aggregation.pdf', size=1847305, headers=Headers({'content-disposition': 'form-data; name="file"; filename="Shunted Self-Attention via Multi-Scale Token Aggregation.pdf"', 'content-type': 'application/pdf'}))
+2024-05-07 15:33:17,229 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\07\7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:17,230 - main - log_requests - line:80 - INFO - rid=8W25KC completed_in=103.28ms status_code=200
+2024-05-07 15:33:17,737 - main - log_requests - line:73 - INFO - rid=YSE6JP start request path=/download
+2024-05-07 15:33:17,751 - main - log_requests - line:80 - INFO - rid=YSE6JP completed_in=0.00ms status_code=200
+2024-05-07 15:33:17,764 - main - log_requests - line:73 - INFO - rid=JOUJEK start request path=/download
+2024-05-07 15:33:17,768 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:17,773 - main - log_requests - line:80 - INFO - rid=JOUJEK completed_in=9.38ms status_code=200
+2024-05-07 15:33:18,115 - main - log_requests - line:73 - INFO - rid=37GJRY start request path=/static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:18,115 - main - log_requests - line:80 - INFO - rid=37GJRY completed_in=0.00ms status_code=200
+2024-05-07 15:33:18,307 - main - log_requests - line:73 - INFO - rid=DWU744 start request path=/analyze
+2024-05-07 15:33:18,310 - main - log_requests - line:80 - INFO - rid=DWU744 completed_in=3.00ms status_code=200
+2024-05-07 15:33:18,323 - main - log_requests - line:73 - INFO - rid=MP70QL start request path=/analyze
+2024-05-07 15:33:18,325 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:18,327 - main - analyze - line:440 - INFO - file=None
+2024-05-07 15:33:18,328 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:35,962 - main - analyze_pdf - line:375 - INFO - title=Shunted Self-Attention via Multi-Scale Token Aggregation (通过多尺度token聚合实现分流自注意力)
+2024-05-07 15:33:35,977 - main - log_requests - line:73 - INFO - rid=Q9YGO3 start request path=/download
+2024-05-07 15:33:35,977 - main - log_requests - line:80 - INFO - rid=MP70QL completed_in=17654.30ms status_code=200
+2024-05-07 15:33:35,977 - main - log_requests - line:80 - INFO - rid=Q9YGO3 completed_in=0.00ms status_code=200
+2024-05-07 15:33:35,977 - main - log_requests - line:73 - INFO - rid=PXM8VW start request path=/download
+2024-05-07 15:33:35,977 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:35,977 - main - log_requests - line:80 - INFO - rid=PXM8VW completed_in=0.00ms status_code=200
+2024-05-07 15:33:36,305 - main - log_requests - line:73 - INFO - rid=05TUJK start request path=/static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:36,305 - main - log_requests - line:80 - INFO - rid=05TUJK completed_in=0.00ms status_code=304
+2024-05-07 15:33:36,450 - main - log_requests - line:73 - INFO - rid=XMCEW3 start request path=/analyze
+2024-05-07 15:33:36,450 - main - log_requests - line:80 - INFO - rid=XMCEW3 completed_in=0.00ms status_code=200
+2024-05-07 15:33:36,456 - main - log_requests - line:73 - INFO - rid=9U9K73 start request path=/analyze
+2024-05-07 15:33:36,457 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:36,458 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DB8C8F90>
+2024-05-07 15:33:36,458 - main - log_requests - line:80 - INFO - rid=9U9K73 completed_in=2.00ms status_code=200
+2024-05-07 15:33:51,673 - main - log_requests - line:73 - INFO - rid=XH6KA0 start request path=/recent_papers
+2024-05-07 15:33:51,673 - main - log_requests - line:80 - INFO - rid=XH6KA0 completed_in=0.00ms status_code=200
+2024-05-07 15:33:51,673 - main - log_requests - line:73 - INFO - rid=X27QEI start request path=/recent_papers
+2024-05-07 15:33:51,688 - main - log_requests - line:80 - INFO - rid=X27QEI completed_in=15.63ms status_code=200
+2024-05-07 15:33:52,381 - main - log_requests - line:73 - INFO - rid=1GNBOO start request path=/download
+2024-05-07 15:33:52,381 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:52,381 - main - log_requests - line:80 - INFO - rid=1GNBOO completed_in=0.00ms status_code=200
+2024-05-07 15:33:52,713 - main - log_requests - line:73 - INFO - rid=WYFP6Z start request path=/static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:52,713 - main - log_requests - line:80 - INFO - rid=WYFP6Z completed_in=0.00ms status_code=304
+2024-05-07 15:33:52,863 - main - log_requests - line:73 - INFO - rid=GVB6CY start request path=/analyze
+2024-05-07 15:33:52,863 - main - log_requests - line:80 - INFO - rid=GVB6CY completed_in=0.00ms status_code=200
+2024-05-07 15:33:52,878 - main - log_requests - line:73 - INFO - rid=G7JI2I start request path=/analyze
+2024-05-07 15:33:52,881 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:52,883 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DC0C7790>
+2024-05-07 15:33:52,884 - main - log_requests - line:80 - INFO - rid=G7JI2I completed_in=4.98ms status_code=200
+2024-05-07 15:33:55,787 - main - log_requests - line:73 - INFO - rid=GXMTXC start request path=/recent_papers
+2024-05-07 15:33:55,805 - main - log_requests - line:80 - INFO - rid=GXMTXC completed_in=17.00ms status_code=200
+2024-05-07 15:33:57,068 - main - log_requests - line:73 - INFO - rid=S8BKRW start request path=/download
+2024-05-07 15:33:57,072 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:57,073 - main - log_requests - line:80 - INFO - rid=S8BKRW completed_in=4.01ms status_code=200
+2024-05-07 15:33:57,100 - main - log_requests - line:73 - INFO - rid=P4ICMJ start request path=/static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:57,104 - main - log_requests - line:80 - INFO - rid=P4ICMJ completed_in=2.00ms status_code=304
+2024-05-07 15:33:57,226 - main - log_requests - line:73 - INFO - rid=FLZDUS start request path=/analyze
+2024-05-07 15:33:57,228 - main - log_requests - line:80 - INFO - rid=FLZDUS completed_in=0.00ms status_code=200
+2024-05-07 15:33:57,241 - main - log_requests - line:73 - INFO - rid=M44MJP start request path=/analyze
+2024-05-07 15:33:57,242 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/7d695d4b2f1027fcd58e38a03c670a78.pdf
+2024-05-07 15:33:57,245 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220DB902850>
+2024-05-07 15:33:57,247 - main - log_requests - line:80 - INFO - rid=M44MJP completed_in=5.86ms status_code=200
+2024-05-07 15:33:59,070 - main - log_requests - line:73 - INFO - rid=D9UI9L start request path=/recent_papers
+2024-05-07 15:33:59,086 - main - log_requests - line:80 - INFO - rid=D9UI9L completed_in=14.54ms status_code=200
+2024-05-07 15:35:25,057 - main - download_pdf - line:120 - INFO - response.status_code=200
+2024-05-07 15:35:25,072 - main - download_pdf - line:124 - INFO - file=<orm.models.Paper object at 0x00000220DC0C4490>
+2024-05-07 15:35:25,072 - main - upload - line:158 - INFO - file_path=static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:35:25,088 - main - log_requests - line:80 - INFO - rid=XI7GTR completed_in=158829.12ms status_code=200
+2024-05-07 15:54:38,667 - main - log_requests - line:73 - INFO - rid=3GDXDD start request path=/upload
+2024-05-07 15:54:38,668 - main - log_requests - line:80 - INFO - rid=3GDXDD completed_in=0.00ms status_code=200
+2024-05-07 15:54:38,668 - main - log_requests - line:73 - INFO - rid=OYJFNF start request path=/upload
+2024-05-07 15:54:38,731 - main - upload - line:174 - INFO - file=UploadFile(filename='A_chatpaper_tmp.pdf', size=1742410, headers=Headers({'content-disposition': 'form-data; name="file"; filename="A_chatpaper_tmp.pdf"', 'content-type': 'application/pdf'}))
+2024-05-07 15:54:38,754 - main - upload - line:210 - INFO - file_path=static\pdf\2024\05\07\e4411636809da7862279de6e125c1cbd.pdf
+2024-05-07 15:54:38,755 - main - log_requests - line:80 - INFO - rid=OYJFNF completed_in=86.70ms status_code=200
+2024-05-07 15:54:39,369 - main - log_requests - line:73 - INFO - rid=ETGE8T start request path=/download
+2024-05-07 15:54:39,370 - main - log_requests - line:80 - INFO - rid=ETGE8T completed_in=1.00ms status_code=200
+2024-05-07 15:54:39,381 - main - log_requests - line:73 - INFO - rid=15ALMG start request path=/download
+2024-05-07 15:54:39,385 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-07 15:54:39,387 - main - log_requests - line:80 - INFO - rid=15ALMG completed_in=6.24ms status_code=200
+2024-05-07 15:54:39,723 - main - log_requests - line:73 - INFO - rid=CVTXK8 start request path=/static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-07 15:54:39,723 - main - log_requests - line:80 - INFO - rid=CVTXK8 completed_in=0.00ms status_code=200
+2024-05-07 15:54:39,821 - main - log_requests - line:73 - INFO - rid=JWDU9D start request path=/analyze
+2024-05-07 15:54:39,822 - main - log_requests - line:80 - INFO - rid=JWDU9D completed_in=0.00ms status_code=200
+2024-05-07 15:54:39,833 - main - log_requests - line:73 - INFO - rid=845OOB start request path=/analyze
+2024-05-07 15:54:39,837 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-07 15:54:39,859 - main - analyze - line:440 - INFO - file=None
+2024-05-07 15:54:39,859 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-07 15:54:53,537 - main - analyze_pdf - line:375 - INFO - title=SVG VECTOR FONT GENERATION FOR CHINESE CHARACTERS WITH TRANSFORMER (使用Transformer为中文字符生成SVG矢量字体)
+2024-05-07 15:54:53,554 - main - log_requests - line:80 - INFO - rid=845OOB completed_in=13718.68ms status_code=200
+2024-05-07 15:55:21,813 - main - log_requests - line:73 - INFO - rid=S8WVLA start request path=/re_analyze
+2024-05-07 15:55:21,813 - main - log_requests - line:80 - INFO - rid=S8WVLA completed_in=0.00ms status_code=200
+2024-05-07 15:55:21,813 - main - log_requests - line:73 - INFO - rid=W3KM3M start request path=/re_analyze
+2024-05-07 15:55:21,813 - main - analyze_pdf - line:348 - INFO - file_path=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-07 15:55:33,171 - main - analyze_pdf - line:375 - INFO - title=SVG VECTOR FONT GENERATION FOR CHINESE CHARACTERS WITH TRANSFORMER (利用Transformer生成中文字符的SVG矢量字体)
+2024-05-07 15:55:33,184 - main - log_requests - line:80 - INFO - rid=W3KM3M completed_in=11370.82ms status_code=200
+2024-05-07 15:56:07,177 - main - log_requests - line:73 - INFO - rid=GLIB6C start request path=/chat
+2024-05-07 15:56:07,178 - main - log_requests - line:80 - INFO - rid=GLIB6C completed_in=0.00ms status_code=200
+2024-05-07 15:56:07,182 - main - log_requests - line:73 - INFO - rid=SLRNGM start request path=/chat
+2024-05-07 15:56:07,183 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请概述一下本文使用的方法"}}]
+2024-05-07 15:56:07,183 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x00000220DC099E50>
+2024-05-07 15:56:10,527 - main - log_requests - line:80 - INFO - rid=SLRNGM completed_in=3345.02ms status_code=200
+2024-05-07 15:56:28,919 - main - log_requests - line:73 - INFO - rid=AA0RRA start request path=/recent_papers
+2024-05-07 15:56:28,920 - main - log_requests - line:80 - INFO - rid=AA0RRA completed_in=0.00ms status_code=200
+2024-05-07 15:56:28,925 - main - log_requests - line:73 - INFO - rid=JTRS9T start request path=/recent_papers
+2024-05-07 15:56:28,941 - main - log_requests - line:80 - INFO - rid=JTRS9T completed_in=15.34ms status_code=200
+2024-05-07 15:56:34,567 - main - log_requests - line:73 - INFO - rid=AQR07Y start request path=/download
+2024-05-07 15:56:34,567 - main - log_requests - line:80 - INFO - rid=AQR07Y completed_in=0.00ms status_code=200
+2024-05-07 15:56:34,567 - main - log_requests - line:73 - INFO - rid=BUQFF3 start request path=/download
+2024-05-07 15:56:34,567 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:56:34,567 - main - log_requests - line:80 - INFO - rid=BUQFF3 completed_in=0.00ms status_code=200
+2024-05-07 15:56:34,897 - main - log_requests - line:73 - INFO - rid=ANBYUU start request path=/static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:56:34,898 - main - log_requests - line:80 - INFO - rid=ANBYUU completed_in=0.32ms status_code=304
+2024-05-07 15:56:34,964 - main - log_requests - line:73 - INFO - rid=0AIW7O start request path=/analyze
+2024-05-07 15:56:34,965 - main - log_requests - line:80 - INFO - rid=0AIW7O completed_in=1.05ms status_code=200
+2024-05-07 15:56:34,972 - main - log_requests - line:73 - INFO - rid=528HTW start request path=/analyze
+2024-05-07 15:56:34,972 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/ee35df649fc1cbd94e86c3a45a783e0a.pdf
+2024-05-07 15:56:34,972 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x00000220D9BED490>
+2024-05-07 15:56:34,972 - main - log_requests - line:80 - INFO - rid=528HTW completed_in=0.00ms status_code=200

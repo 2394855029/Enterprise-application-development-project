@@ -1,0 +1,108 @@
+2024-05-03 19:00:18,550 - main - log_requests - line:73 - INFO - rid=GEL6O3 start request path=/recent_papers
+2024-05-03 19:00:18,554 - main - log_requests - line:80 - INFO - rid=GEL6O3 completed_in=0.00ms status_code=200
+2024-05-03 19:00:18,563 - main - log_requests - line:73 - INFO - rid=PWFD8J start request path=/recent_papers
+2024-05-03 19:00:18,597 - main - log_requests - line:80 - INFO - rid=PWFD8J completed_in=32.00ms status_code=200
+2024-05-03 19:00:21,604 - main - log_requests - line:73 - INFO - rid=NM7U3D start request path=/download
+2024-05-03 19:00:21,605 - main - log_requests - line:80 - INFO - rid=NM7U3D completed_in=0.00ms status_code=200
+2024-05-03 19:00:21,611 - main - log_requests - line:73 - INFO - rid=FS45MY start request path=/download
+2024-05-03 19:00:21,613 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 19:00:21,614 - main - log_requests - line:80 - INFO - rid=FS45MY completed_in=2.00ms status_code=200
+2024-05-03 19:00:22,000 - main - log_requests - line:73 - INFO - rid=TDT1P9 start request path=/static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 19:00:22,173 - main - log_requests - line:80 - INFO - rid=TDT1P9 completed_in=172.00ms status_code=304
+2024-05-03 19:00:22,494 - main - log_requests - line:73 - INFO - rid=ZGPWYE start request path=/analyze
+2024-05-03 19:00:22,495 - main - log_requests - line:80 - INFO - rid=ZGPWYE completed_in=1.00ms status_code=200
+2024-05-03 19:00:22,506 - main - log_requests - line:73 - INFO - rid=OTF5AR start request path=/analyze
+2024-05-03 19:00:22,508 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 19:00:22,515 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001B7A1B82FD0>
+2024-05-03 19:00:22,524 - main - log_requests - line:80 - INFO - rid=OTF5AR completed_in=18.00ms status_code=200
+2024-05-03 19:00:36,782 - main - log_requests - line:73 - INFO - rid=2OVQDP start request path=/download
+2024-05-03 19:00:36,785 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 19:00:36,786 - main - log_requests - line:80 - INFO - rid=2OVQDP completed_in=3.01ms status_code=200
+2024-05-03 19:00:36,960 - main - log_requests - line:73 - INFO - rid=V6L0O2 start request path=/analyze
+2024-05-03 19:00:36,961 - main - log_requests - line:80 - INFO - rid=V6L0O2 completed_in=0.00ms status_code=200
+2024-05-03 19:00:36,968 - main - log_requests - line:73 - INFO - rid=YN88Q1 start request path=/analyze
+2024-05-03 19:00:36,970 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 19:00:36,973 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001B7A1B8A290>
+2024-05-03 19:00:36,974 - main - log_requests - line:80 - INFO - rid=YN88Q1 completed_in=5.00ms status_code=200
+2024-05-03 20:02:23,722 - main - log_requests - line:73 - INFO - rid=JYUS3D start request path=/chat
+2024-05-03 20:02:23,738 - main - log_requests - line:80 - INFO - rid=JYUS3D completed_in=7.07ms status_code=200
+2024-05-03 20:02:23,753 - base_events - default_exception_handler - line:1785 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\23948\anaconda3\envs\chatpaper-xt\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\23948\anaconda3\envs\chatpaper-xt\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-05-03 20:02:23,925 - main - log_requests - line:73 - INFO - rid=PSON1V start request path=/chat
+2024-05-03 20:02:23,953 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"你能保存历史记录吗"}}]
+2024-05-03 20:02:23,983 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001B7A1B8EFD0>
+2024-05-03 20:02:29,328 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 4096 tokens. However, your messages resulted in 33763 tokens. Please reduce the length of the messages. (request id: 20240503120229333325570ZwWp8LJx) (request id: 202405032002298894236945215864)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-03 20:05:03,862 - main - log_requests - line:73 - INFO - rid=7U6L9L start request path=/download
+2024-05-03 20:05:03,864 - main - log_requests - line:80 - INFO - rid=7U6L9L completed_in=0.00ms status_code=200
+2024-05-03 20:05:03,871 - main - log_requests - line:73 - INFO - rid=S32D1J start request path=/download
+2024-05-03 20:05:03,873 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 20:05:03,874 - main - log_requests - line:80 - INFO - rid=S32D1J completed_in=1.99ms status_code=200
+2024-05-03 20:05:04,076 - main - log_requests - line:73 - INFO - rid=VT3EKL start request path=/analyze
+2024-05-03 20:05:04,077 - main - log_requests - line:80 - INFO - rid=VT3EKL completed_in=0.00ms status_code=200
+2024-05-03 20:05:04,095 - main - log_requests - line:73 - INFO - rid=6RVIBH start request path=/analyze
+2024-05-03 20:05:04,096 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 20:05:04,101 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001B7A28C7B50>
+2024-05-03 20:05:04,104 - main - log_requests - line:80 - INFO - rid=6RVIBH completed_in=9.00ms status_code=200
+2024-05-03 20:14:13,020 - main - log_requests - line:73 - INFO - rid=5ZG7HE start request path=/download
+2024-05-03 20:14:13,021 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 20:14:13,023 - main - log_requests - line:80 - INFO - rid=5ZG7HE completed_in=3.01ms status_code=200
+2024-05-03 20:14:13,635 - main - log_requests - line:73 - INFO - rid=IUA1PJ start request path=/analyze
+2024-05-03 20:14:13,635 - main - log_requests - line:80 - INFO - rid=IUA1PJ completed_in=0.00ms status_code=200
+2024-05-03 20:14:13,643 - main - log_requests - line:73 - INFO - rid=LODZFO start request path=/analyze
+2024-05-03 20:14:13,644 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 20:14:13,657 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001B7A28C7E50>
+2024-05-03 20:14:13,658 - main - log_requests - line:80 - INFO - rid=LODZFO completed_in=15.00ms status_code=200
+2024-05-03 21:19:29,807 - main - log_requests - line:73 - INFO - rid=7FPKZU start request path=/chat
+2024-05-03 21:19:29,818 - main - log_requests - line:80 - INFO - rid=7FPKZU completed_in=5.10ms status_code=200
+2024-05-03 21:19:29,827 - main - log_requests - line:73 - INFO - rid=GOS8S7 start request path=/chat
+2024-05-03 21:19:29,867 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"请问这篇论文的创新点是什么"}}]
+2024-05-03 21:19:29,886 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001B7A28DAD10>
+2024-05-03 21:19:37,089 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 4096 tokens. However, your messages resulted in 33770 tokens. Please reduce the length of the messages. (request id: 20240503131935438525107HhikuvLi) (request id: 2024050321193525760197294483796)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-03 21:24:40,058 - main - log_requests - line:73 - INFO - rid=NI8CZ4 start request path=/download
+2024-05-03 21:24:40,060 - main - log_requests - line:80 - INFO - rid=NI8CZ4 completed_in=1.01ms status_code=200
+2024-05-03 21:24:40,090 - main - log_requests - line:73 - INFO - rid=P7DL5G start request path=/download
+2024-05-03 21:24:40,099 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 21:24:40,104 - main - log_requests - line:80 - INFO - rid=P7DL5G completed_in=14.06ms status_code=200
+2024-05-03 21:24:40,365 - main - log_requests - line:73 - INFO - rid=YXV2EB start request path=/analyze
+2024-05-03 21:24:40,366 - main - log_requests - line:80 - INFO - rid=YXV2EB completed_in=0.00ms status_code=200
+2024-05-03 21:24:40,380 - main - log_requests - line:73 - INFO - rid=CW4P2Y start request path=/analyze
+2024-05-03 21:24:40,382 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-03 21:24:40,398 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x000001B7A28E5250>
+2024-05-03 21:24:40,401 - main - log_requests - line:80 - INFO - rid=CW4P2Y completed_in=21.08ms status_code=200
+2024-05-03 21:24:47,674 - main - log_requests - line:73 - INFO - rid=YN3AY6 start request path=/chat
+2024-05-03 21:24:47,678 - main - chat - line:537 - INFO - message_list=[{"author":"me","type":"text","data":{"text":"？"}}]
+2024-05-03 21:24:47,681 - main - chat - line:540 - INFO - file=<orm.models.Paper object at 0x000001B7A28E6550>
+2024-05-03 21:24:50,944 - util - log_info - line:67 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 4096 tokens. However, your messages resulted in 33755 tokens. Please reduce the length of the messages. (request id: 20240503132449902004870bffFJ0kT) (request id: 2024050321244972615821429562240)" error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-05-04 15:16:38,391 - main - log_requests - line:73 - INFO - rid=U3ZSLR start request path=/recent_papers
+2024-05-04 15:16:38,391 - main - log_requests - line:80 - INFO - rid=U3ZSLR completed_in=0.00ms status_code=200
+2024-05-04 15:16:38,401 - main - log_requests - line:73 - INFO - rid=3YNTBO start request path=/recent_papers
+2024-05-04 15:16:38,401 - main - log_requests - line:80 - INFO - rid=3YNTBO completed_in=0.00ms status_code=200
+2024-05-04 15:16:38,407 - main - log_requests - line:73 - INFO - rid=T0WMUG start request path=/recent_papers
+2024-05-04 15:16:38,407 - main - log_requests - line:80 - INFO - rid=T0WMUG completed_in=0.00ms status_code=200
+2024-05-04 15:16:38,407 - main - log_requests - line:73 - INFO - rid=4KMHFE start request path=/recent_papers
+2024-05-04 15:16:38,459 - main - log_requests - line:80 - INFO - rid=4KMHFE completed_in=51.80ms status_code=200
+2024-05-04 15:16:38,466 - main - log_requests - line:73 - INFO - rid=OEEDVB start request path=/recent_papers
+2024-05-04 15:16:38,484 - main - log_requests - line:80 - INFO - rid=OEEDVB completed_in=17.59ms status_code=200
+2024-05-04 15:16:38,496 - main - log_requests - line:73 - INFO - rid=TJ3Y0D start request path=/recent_papers
+2024-05-04 15:16:38,504 - main - log_requests - line:80 - INFO - rid=TJ3Y0D completed_in=8.12ms status_code=200
+2024-05-04 15:16:40,847 - main - log_requests - line:73 - INFO - rid=UWLEDO start request path=/download
+2024-05-04 15:16:40,847 - main - log_requests - line:80 - INFO - rid=UWLEDO completed_in=0.00ms status_code=200
+2024-05-04 15:16:40,847 - main - log_requests - line:73 - INFO - rid=FXCAI8 start request path=/download
+2024-05-04 15:16:40,847 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-04 15:16:40,847 - main - log_requests - line:80 - INFO - rid=FXCAI8 completed_in=0.00ms status_code=200
+2024-05-04 15:16:41,240 - main - log_requests - line:73 - INFO - rid=3NUDYL start request path=/static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-04 15:16:41,334 - main - log_requests - line:80 - INFO - rid=3NUDYL completed_in=93.71ms status_code=200
+2024-05-04 15:16:41,465 - main - log_requests - line:73 - INFO - rid=UAVM08 start request path=/analyze
+2024-05-04 15:16:41,465 - main - log_requests - line:80 - INFO - rid=UAVM08 completed_in=0.00ms status_code=200
+2024-05-04 15:16:41,472 - main - log_requests - line:73 - INFO - rid=HCPTKY start request path=/analyze
+2024-05-04 15:16:41,473 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-04 15:16:41,526 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000027A64535E50>
+2024-05-04 15:16:41,528 - main - log_requests - line:80 - INFO - rid=HCPTKY completed_in=56.18ms status_code=200
+2024-05-04 15:17:00,772 - main - log_requests - line:73 - INFO - rid=WT884J start request path=/recent_papers
+2024-05-04 15:17:00,779 - main - log_requests - line:80 - INFO - rid=WT884J completed_in=6.61ms status_code=200

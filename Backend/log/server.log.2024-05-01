@@ -1,0 +1,146 @@
+2024-05-01 03:18:43,956 - main - log_requests - line:74 - INFO - rid=3205MJ start request path=/recent_papers
+2024-05-01 03:18:43,964 - main - log_requests - line:81 - INFO - rid=3205MJ completed_in=1.00ms status_code=400
+2024-05-01 03:19:48,062 - main - log_requests - line:74 - INFO - rid=HCVP0U start request path=/recent_papers
+2024-05-01 03:19:48,066 - main - log_requests - line:81 - INFO - rid=HCVP0U completed_in=1.00ms status_code=400
+2024-05-01 03:20:21,574 - main - log_requests - line:74 - INFO - rid=GZE8AT start request path=/recent_papers
+2024-05-01 03:20:21,591 - main - log_requests - line:81 - INFO - rid=GZE8AT completed_in=1.02ms status_code=200
+2024-05-01 03:20:21,711 - main - log_requests - line:74 - INFO - rid=22D43M start request path=/recent_papers
+2024-05-01 03:20:21,822 - main - log_requests - line:81 - INFO - rid=22D43M completed_in=110.00ms status_code=200
+2024-05-01 03:20:26,661 - main - log_requests - line:74 - INFO - rid=OPCYG4 start request path=/upload
+2024-05-01 03:20:26,662 - main - log_requests - line:81 - INFO - rid=OPCYG4 completed_in=1.00ms status_code=200
+2024-05-01 03:20:26,674 - main - log_requests - line:74 - INFO - rid=8UVWZ8 start request path=/upload
+2024-05-01 03:20:26,814 - main - upload - line:175 - INFO - file=UploadFile(filename='glnet.pdf', size=3866380, headers=Headers({'content-disposition': 'form-data; name="file"; filename="glnet.pdf"', 'content-type': 'application/pdf'}))
+2024-05-01 03:20:26,833 - main - upload - line:211 - INFO - file_path=static\pdf\2024\05\01\10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:20:26,836 - main - log_requests - line:81 - INFO - rid=8UVWZ8 completed_in=160.68ms status_code=200
+2024-05-01 03:20:27,195 - main - log_requests - line:74 - INFO - rid=DH1CIV start request path=/download
+2024-05-01 03:20:27,197 - main - log_requests - line:81 - INFO - rid=DH1CIV completed_in=1.01ms status_code=200
+2024-05-01 03:20:27,219 - main - log_requests - line:74 - INFO - rid=5KEDL7 start request path=/download
+2024-05-01 03:20:27,222 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:20:27,224 - main - log_requests - line:81 - INFO - rid=5KEDL7 completed_in=5.00ms status_code=200
+2024-05-01 03:20:27,610 - main - log_requests - line:74 - INFO - rid=0URFW4 start request path=/static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:20:28,082 - main - log_requests - line:81 - INFO - rid=0URFW4 completed_in=471.68ms status_code=200
+2024-05-01 03:20:28,346 - main - log_requests - line:74 - INFO - rid=1OF7M9 start request path=/analyze
+2024-05-01 03:20:28,347 - main - log_requests - line:81 - INFO - rid=1OF7M9 completed_in=1.00ms status_code=200
+2024-05-01 03:20:28,367 - main - log_requests - line:74 - INFO - rid=T8K46T start request path=/analyze
+2024-05-01 03:20:28,391 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:21:37,717 - main - log_requests - line:74 - INFO - rid=EQJVD9 start request path=/download
+2024-05-01 03:21:37,740 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:21:37,756 - main - log_requests - line:81 - INFO - rid=EQJVD9 completed_in=26.01ms status_code=200
+2024-05-01 03:21:38,154 - main - log_requests - line:74 - INFO - rid=MJTNBA start request path=/static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:21:38,420 - main - log_requests - line:81 - INFO - rid=MJTNBA completed_in=265.56ms status_code=304
+2024-05-01 03:21:38,711 - main - log_requests - line:74 - INFO - rid=VTPM2F start request path=/analyze
+2024-05-01 03:21:38,713 - main - log_requests - line:81 - INFO - rid=VTPM2F completed_in=1.00ms status_code=200
+2024-05-01 03:21:38,725 - main - log_requests - line:74 - INFO - rid=JM4YHZ start request path=/analyze
+2024-05-01 03:21:38,728 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:21:38,759 - main - analyze - line:441 - INFO - file=None
+2024-05-01 03:21:38,760 - main - analyze_pdf - line:349 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:22:37,362 - main - analyze - line:448 - ERROR - Exception: list index out of range
+2024-05-01 03:22:37,366 - main - log_requests - line:81 - INFO - rid=JM4YHZ completed_in=58640.30ms status_code=400
+2024-05-01 03:25:58,675 - main - log_requests - line:74 - INFO - rid=ZDPR2N start request path=/download
+2024-05-01 03:25:58,708 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:25:58,714 - main - log_requests - line:81 - INFO - rid=ZDPR2N completed_in=15.01ms status_code=200
+2024-05-01 03:25:59,147 - main - log_requests - line:74 - INFO - rid=J87EXC start request path=/static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:25:59,574 - main - log_requests - line:81 - INFO - rid=J87EXC completed_in=424.00ms status_code=304
+2024-05-01 03:25:59,970 - main - log_requests - line:74 - INFO - rid=NYC2H7 start request path=/analyze
+2024-05-01 03:25:59,971 - main - log_requests - line:81 - INFO - rid=NYC2H7 completed_in=1.00ms status_code=200
+2024-05-01 03:25:59,995 - main - log_requests - line:74 - INFO - rid=4OMMB9 start request path=/analyze
+2024-05-01 03:26:00,000 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:26:00,054 - main - analyze - line:441 - INFO - file=None
+2024-05-01 03:26:00,096 - main - analyze_pdf - line:349 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 03:26:35,304 - main - analyze_pdf - line:376 - INFO - title=Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images (协作式全局-局部网络用于超高分辨率图像的内存高效分割)
+2024-05-01 03:26:35,335 - main - log_requests - line:81 - INFO - rid=4OMMB9 completed_in=35339.15ms status_code=200
+2024-05-01 09:19:30,931 - main - log_requests - line:74 - INFO - rid=WDCJ6C start request path=/download
+2024-05-01 09:19:30,932 - main - log_requests - line:81 - INFO - rid=WDCJ6C completed_in=0.00ms status_code=200
+2024-05-01 09:19:30,937 - main - log_requests - line:74 - INFO - rid=EKOOV2 start request path=/download
+2024-05-01 09:19:30,937 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 09:19:30,937 - main - log_requests - line:81 - INFO - rid=EKOOV2 completed_in=0.00ms status_code=200
+2024-05-01 09:19:31,289 - main - log_requests - line:74 - INFO - rid=SY5VPM start request path=/static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 09:19:31,291 - main - log_requests - line:81 - INFO - rid=SY5VPM completed_in=2.01ms status_code=304
+2024-05-01 09:19:31,399 - main - log_requests - line:74 - INFO - rid=VCDJ3R start request path=/analyze
+2024-05-01 09:19:31,399 - main - log_requests - line:81 - INFO - rid=VCDJ3R completed_in=0.00ms status_code=200
+2024-05-01 09:19:31,425 - main - log_requests - line:74 - INFO - rid=SMSAPI start request path=/analyze
+2024-05-01 09:19:31,427 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 09:19:31,429 - main - analyze - line:441 - INFO - file=<orm.models.Paper object at 0x00000174ECD3E7D0>
+2024-05-01 09:19:31,431 - main - log_requests - line:81 - INFO - rid=SMSAPI completed_in=4.83ms status_code=200
+2024-05-01 09:19:37,310 - main - log_requests - line:74 - INFO - rid=Y68AH7 start request path=/recent_papers
+2024-05-01 09:19:37,311 - main - log_requests - line:81 - INFO - rid=Y68AH7 completed_in=0.00ms status_code=200
+2024-05-01 09:19:37,316 - main - log_requests - line:74 - INFO - rid=E0VGO5 start request path=/recent_papers
+2024-05-01 09:19:37,328 - main - log_requests - line:81 - INFO - rid=E0VGO5 completed_in=11.67ms status_code=200
+2024-05-01 09:19:41,994 - main - log_requests - line:74 - INFO - rid=XABL39 start request path=/upload
+2024-05-01 09:19:41,996 - main - log_requests - line:81 - INFO - rid=XABL39 completed_in=2.00ms status_code=200
+2024-05-01 09:19:42,007 - main - log_requests - line:74 - INFO - rid=WGUC1E start request path=/upload
+2024-05-01 09:19:42,415 - main - upload - line:175 - INFO - file=UploadFile(filename='综述.pdf', size=10986253, headers=Headers({'content-disposition': 'form-data; name="file"; filename="ç»¼è¿°.pdf"', 'content-type': 'application/pdf'}))
+2024-05-01 09:19:42,448 - main - upload - line:211 - INFO - file_path=static\pdf\2024\05\01\b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 09:19:42,448 - main - log_requests - line:81 - INFO - rid=WGUC1E completed_in=441.23ms status_code=200
+2024-05-01 09:19:42,870 - main - log_requests - line:74 - INFO - rid=TSDJUQ start request path=/download
+2024-05-01 09:19:42,872 - main - log_requests - line:81 - INFO - rid=TSDJUQ completed_in=1.00ms status_code=200
+2024-05-01 09:19:42,887 - main - log_requests - line:74 - INFO - rid=YHKK4H start request path=/download
+2024-05-01 09:19:42,902 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 09:19:42,906 - main - log_requests - line:81 - INFO - rid=YHKK4H completed_in=14.08ms status_code=200
+2024-05-01 09:19:43,305 - main - log_requests - line:74 - INFO - rid=CERXWU start request path=/static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 09:19:43,305 - main - log_requests - line:81 - INFO - rid=CERXWU completed_in=0.00ms status_code=200
+2024-05-01 09:19:43,530 - main - log_requests - line:74 - INFO - rid=EZFB6X start request path=/analyze
+2024-05-01 09:19:43,561 - main - log_requests - line:81 - INFO - rid=EZFB6X completed_in=1.00ms status_code=200
+2024-05-01 09:19:43,619 - main - log_requests - line:74 - INFO - rid=CCMVFB start request path=/analyze
+2024-05-01 09:19:43,625 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 09:19:43,629 - main - analyze - line:441 - INFO - file=None
+2024-05-01 09:19:43,631 - main - analyze_pdf - line:349 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 09:20:19,400 - main - analyze_pdf - line:376 - INFO - title=Weakly Supervised Object Localization and Detection: A Survey (弱监督目标定位与检测：综述)
+2024-05-01 09:20:19,416 - main - log_requests - line:81 - INFO - rid=CCMVFB completed_in=35793.66ms status_code=200
+2024-05-01 10:36:35,857 - main - log_requests - line:74 - INFO - rid=2518Q5 start request path=/re_analyze
+2024-05-01 10:36:35,862 - main - log_requests - line:81 - INFO - rid=2518Q5 completed_in=3.01ms status_code=200
+2024-05-01 10:36:35,879 - main - log_requests - line:74 - INFO - rid=NLUZQB start request path=/re_analyze
+2024-05-01 10:36:35,917 - main - analyze_pdf - line:349 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 10:37:11,653 - main - analyze_pdf - line:376 - INFO - title=弱监督对象定位与检测：一项调查
+2024-05-01 10:37:11,723 - main - log_requests - line:81 - INFO - rid=NLUZQB completed_in=35842.59ms status_code=200
+2024-05-01 10:42:51,163 - main - log_requests - line:74 - INFO - rid=S5448D start request path=/recent_papers
+2024-05-01 10:42:51,164 - main - log_requests - line:81 - INFO - rid=S5448D completed_in=1.00ms status_code=200
+2024-05-01 10:42:51,172 - main - log_requests - line:74 - INFO - rid=Y8IK67 start request path=/recent_papers
+2024-05-01 10:42:51,213 - main - log_requests - line:81 - INFO - rid=Y8IK67 completed_in=40.00ms status_code=200
+2024-05-01 10:42:58,965 - main - log_requests - line:74 - INFO - rid=YRSH0N start request path=/download
+2024-05-01 10:42:58,967 - main - log_requests - line:81 - INFO - rid=YRSH0N completed_in=0.98ms status_code=200
+2024-05-01 10:42:58,976 - main - log_requests - line:74 - INFO - rid=L49T1L start request path=/download
+2024-05-01 10:42:58,978 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 10:42:58,981 - main - log_requests - line:81 - INFO - rid=L49T1L completed_in=5.00ms status_code=200
+2024-05-01 10:42:59,312 - main - log_requests - line:74 - INFO - rid=6I6U6G start request path=/static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 10:42:59,326 - main - log_requests - line:81 - INFO - rid=6I6U6G completed_in=13.40ms status_code=304
+2024-05-01 10:42:59,431 - main - log_requests - line:74 - INFO - rid=UQ5EME start request path=/analyze
+2024-05-01 10:42:59,432 - main - log_requests - line:81 - INFO - rid=UQ5EME completed_in=0.00ms status_code=200
+2024-05-01 10:42:59,438 - main - log_requests - line:74 - INFO - rid=0VOBV7 start request path=/analyze
+2024-05-01 10:42:59,440 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 10:42:59,443 - main - analyze - line:441 - INFO - file=<orm.models.Paper object at 0x00000174ECD2FE90>
+2024-05-01 10:42:59,444 - main - log_requests - line:81 - INFO - rid=0VOBV7 completed_in=6.04ms status_code=200
+2024-05-01 15:54:31,323 - main - log_requests - line:74 - INFO - rid=OFNWPN start request path=/static/pdf/2024/04/30/10a39c37d56a8219cd55f952d21317cf.pdf
+2024-05-01 15:54:31,382 - main - log_requests - line:81 - INFO - rid=OFNWPN completed_in=55.00ms status_code=404
+2024-05-01 16:01:50,545 - main - log_requests - line:74 - INFO - rid=PJ1IGR start request path=/recent_papers
+2024-05-01 16:01:50,549 - main - log_requests - line:81 - INFO - rid=PJ1IGR completed_in=2.79ms status_code=200
+2024-05-01 16:01:50,561 - main - log_requests - line:74 - INFO - rid=0M51ED start request path=/recent_papers
+2024-05-01 16:01:50,630 - main - log_requests - line:81 - INFO - rid=0M51ED completed_in=69.38ms status_code=200
+2024-05-01 16:02:52,337 - main - log_requests - line:74 - INFO - rid=5DX85T start request path=/recent_papers
+2024-05-01 16:02:52,360 - main - log_requests - line:81 - INFO - rid=5DX85T completed_in=22.46ms status_code=200
+2024-05-01 16:02:58,909 - main - log_requests - line:74 - INFO - rid=PST5W1 start request path=/download
+2024-05-01 16:02:58,911 - main - log_requests - line:81 - INFO - rid=PST5W1 completed_in=0.74ms status_code=200
+2024-05-01 16:02:58,918 - main - log_requests - line:74 - INFO - rid=0RHLYQ start request path=/download
+2024-05-01 16:02:58,920 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 16:02:58,923 - main - log_requests - line:81 - INFO - rid=0RHLYQ completed_in=4.98ms status_code=200
+2024-05-01 16:02:59,259 - main - log_requests - line:74 - INFO - rid=RLXQ7X start request path=/static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 16:02:59,266 - main - log_requests - line:81 - INFO - rid=RLXQ7X completed_in=7.14ms status_code=200
+2024-05-01 16:02:59,402 - main - log_requests - line:74 - INFO - rid=M8BJV4 start request path=/analyze
+2024-05-01 16:02:59,403 - main - log_requests - line:81 - INFO - rid=M8BJV4 completed_in=0.59ms status_code=200
+2024-05-01 16:02:59,410 - main - log_requests - line:74 - INFO - rid=VUWXYN start request path=/analyze
+2024-05-01 16:02:59,413 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 16:02:59,418 - main - analyze - line:441 - INFO - file=<orm.models.Paper object at 0x00000174ECD2CF90>
+2024-05-01 16:02:59,419 - main - log_requests - line:81 - INFO - rid=VUWXYN completed_in=7.31ms status_code=200
+2024-05-01 16:03:08,612 - main - log_requests - line:74 - INFO - rid=GU90XT start request path=/recent_papers
+2024-05-01 16:03:08,622 - main - log_requests - line:81 - INFO - rid=GU90XT completed_in=9.14ms status_code=200
+2024-05-01 16:03:43,116 - main - log_requests - line:74 - INFO - rid=4UTQ8O start request path=/recent_papers
+2024-05-01 16:03:43,126 - main - log_requests - line:81 - INFO - rid=4UTQ8O completed_in=9.78ms status_code=200
+2024-05-01 16:06:29,806 - main - log_requests - line:74 - INFO - rid=L0F7XZ start request path=/download
+2024-05-01 16:06:29,810 - main - upload - line:148 - INFO - pdf_url=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 16:06:29,812 - main - log_requests - line:81 - INFO - rid=L0F7XZ completed_in=6.07ms status_code=200
+2024-05-01 16:06:29,982 - main - log_requests - line:74 - INFO - rid=0AEMIV start request path=/analyze
+2024-05-01 16:06:29,984 - main - log_requests - line:81 - INFO - rid=0AEMIV completed_in=1.16ms status_code=200
+2024-05-01 16:06:29,990 - main - log_requests - line:74 - INFO - rid=RRZFLC start request path=/analyze
+2024-05-01 16:06:29,991 - main - analyze - line:430 - INFO - file_path=static/pdf/2024/05/01/b533de9f4e9bb3d4b44afb4cb7be1866.pdf
+2024-05-01 16:06:29,996 - main - analyze - line:441 - INFO - file=<orm.models.Paper object at 0x00000174ECD6F550>
+2024-05-01 16:06:29,997 - main - log_requests - line:81 - INFO - rid=RRZFLC completed_in=7.77ms status_code=200
