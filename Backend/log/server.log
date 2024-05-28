@@ -1,2 +1,40 @@
 2024-05-28 19:44:47,850 - main - log_requests - line:73 - INFO - rid=3BBL3G start request path=/
 2024-05-28 19:44:47,856 - main - log_requests - line:80 - INFO - rid=3BBL3G completed_in=0.99ms status_code=404
+2024-05-28 19:44:50,542 - main - log_requests - line:73 - INFO - rid=74W8W6 start request path=/
+2024-05-28 19:44:50,543 - main - log_requests - line:80 - INFO - rid=74W8W6 completed_in=1.00ms status_code=404
+2024-05-28 20:53:35,835 - main - log_requests - line:73 - INFO - rid=S1O9JK start request path=/recent_papers
+2024-05-28 20:53:35,893 - main - log_requests - line:80 - INFO - rid=S1O9JK completed_in=34.86ms status_code=200
+2024-05-28 20:53:35,926 - main - log_requests - line:73 - INFO - rid=DCBW2P start request path=/recent_papers
+2024-05-28 20:53:36,435 - main - log_requests - line:80 - INFO - rid=DCBW2P completed_in=506.14ms status_code=200
+2024-05-28 20:53:40,560 - main - log_requests - line:73 - INFO - rid=4YW78N start request path=/download
+2024-05-28 20:53:40,562 - main - log_requests - line:80 - INFO - rid=4YW78N completed_in=1.00ms status_code=200
+2024-05-28 20:53:40,584 - main - log_requests - line:73 - INFO - rid=8W33X4 start request path=/download
+2024-05-28 20:53:40,589 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-28 20:53:40,595 - main - log_requests - line:80 - INFO - rid=8W33X4 completed_in=9.49ms status_code=200
+2024-05-28 20:53:40,940 - main - log_requests - line:73 - INFO - rid=D2OL5S start request path=/static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-28 20:53:41,245 - main - log_requests - line:80 - INFO - rid=D2OL5S completed_in=304.88ms status_code=200
+2024-05-28 20:53:41,387 - main - log_requests - line:73 - INFO - rid=5BIJUX start request path=/analyze
+2024-05-28 20:53:41,393 - main - log_requests - line:80 - INFO - rid=5BIJUX completed_in=1.00ms status_code=200
+2024-05-28 20:53:41,417 - main - log_requests - line:73 - INFO - rid=KYN1O8 start request path=/analyze
+2024-05-28 20:53:41,420 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-28 20:53:41,436 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000027587D2C250>
+2024-05-28 20:53:41,438 - main - log_requests - line:80 - INFO - rid=KYN1O8 completed_in=21.01ms status_code=200
+2024-05-28 20:55:01,883 - main - log_requests - line:73 - INFO - rid=K2FQ8W start request path=/recent_papers
+2024-05-28 20:55:01,917 - main - log_requests - line:80 - INFO - rid=K2FQ8W completed_in=33.64ms status_code=200
+2024-05-28 21:29:09,571 - main - log_requests - line:73 - INFO - rid=KWZC8J start request path=/recent_papers
+2024-05-28 21:29:09,602 - main - log_requests - line:80 - INFO - rid=KWZC8J completed_in=17.17ms status_code=200
+2024-05-28 21:29:09,618 - main - log_requests - line:73 - INFO - rid=U4LGCU start request path=/recent_papers
+2024-05-28 21:29:09,747 - main - log_requests - line:80 - INFO - rid=U4LGCU completed_in=129.00ms status_code=200
+2024-05-28 21:29:12,138 - main - log_requests - line:73 - INFO - rid=ZJ7M21 start request path=/download
+2024-05-28 21:29:12,139 - main - log_requests - line:80 - INFO - rid=ZJ7M21 completed_in=0.00ms status_code=200
+2024-05-28 21:29:12,149 - main - log_requests - line:73 - INFO - rid=JIOZLF start request path=/download
+2024-05-28 21:29:12,153 - main - upload - line:147 - INFO - pdf_url=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-28 21:29:12,157 - main - log_requests - line:80 - INFO - rid=JIOZLF completed_in=8.00ms status_code=200
+2024-05-28 21:29:12,335 - main - log_requests - line:73 - INFO - rid=J9HIK7 start request path=/analyze
+2024-05-28 21:29:12,336 - main - log_requests - line:80 - INFO - rid=J9HIK7 completed_in=1.00ms status_code=200
+2024-05-28 21:29:12,358 - main - log_requests - line:73 - INFO - rid=RZ39AV start request path=/analyze
+2024-05-28 21:29:12,360 - main - analyze - line:429 - INFO - file_path=static/pdf/2024/05/07/e4411636809da7862279de6e125c1cbd.pdf
+2024-05-28 21:29:12,373 - main - analyze - line:440 - INFO - file=<orm.models.Paper object at 0x0000027587D37C10>
+2024-05-28 21:29:12,375 - main - log_requests - line:80 - INFO - rid=RZ39AV completed_in=17.00ms status_code=200
+2024-05-28 21:29:16,956 - main - log_requests - line:73 - INFO - rid=SER1VM start request path=/recent_papers
+2024-05-28 21:29:16,980 - main - log_requests - line:80 - INFO - rid=SER1VM completed_in=22.00ms status_code=200

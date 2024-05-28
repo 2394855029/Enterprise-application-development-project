@@ -24,3 +24,12 @@ pip install -r requirements.txt
 ```
 uvicorn main:app --host 0.0.0.0 --port 8000
 ```
+### 5.
+### 项目主页
+![alt text](image-3.png)
+
+### 论文解析页面
+![alt text](image-1.png)
+
+### API与用户交互界面
+![alt text](image-2.png)
