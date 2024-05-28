@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/5/4 10:54 PM
-@Author: binkuolo
 @Des: 基础schemas
 """
 from pydantic import BaseModel, Field

@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/6/9 10:21 AM
-@Author: binkuolo
 @Des: 腾讯云对象存储
 """
 from core.Auth import check_permissions

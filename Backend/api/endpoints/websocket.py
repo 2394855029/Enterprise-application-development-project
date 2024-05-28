@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/5/24 4:03 PM
-@Author: binkuolo
 @Des: websocket
 """
 # import json

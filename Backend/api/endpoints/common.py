@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/6/16 6:17 PM
-@Author: binkuolo
 @Des: 公共
 """
 from fastapi import Request

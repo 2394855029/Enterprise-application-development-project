@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/6/4 2:54 PM
-@Author: binkuolo
 @Des: 微信授权
 """
 import json

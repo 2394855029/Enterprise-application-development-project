@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/4/24 10:11 AM
-@Author: binkuolo
 @Des: 常用返回类型封装
 """
 from typing import List

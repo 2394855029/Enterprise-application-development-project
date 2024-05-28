@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/4/24 10:40 AM
-@Author: binkuolo
 @Des: 基础模型
 """
 

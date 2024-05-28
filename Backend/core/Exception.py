@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Created on : 2022/4/22 22:02
-@Author: binkuolo
 @Des: 异常处理
 """
 

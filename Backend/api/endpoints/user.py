@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/4/27 5:24 PM
-@Author: binkuolo
 @Des: 用户管理
 """
 import os

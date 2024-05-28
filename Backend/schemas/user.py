@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/4/27 5:29 PM
-@Author: binkuolo
 @Des: schemas模型
 """
 from datetime import datetime

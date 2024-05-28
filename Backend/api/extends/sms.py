@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/6/7 5:16 PM
-@Author: binkuolo
 @Des: 腾讯云云短信SMS
 """
 from tencentcloud.common import credential

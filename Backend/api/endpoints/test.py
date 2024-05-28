@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/5/5 1:30 AM
-@Author: binkuolo
 @Des: 测试
 """
 from core.Auth import create_access_token

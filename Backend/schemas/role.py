@@ -1,7 +1,5 @@
 # -*- coding:utf-8 -*-
 """
-@Time : 2022/5/15 11:52 PM
-@Author: binkuolo
 @Des: role schemas
 """
 from pydantic import BaseModel, Field
